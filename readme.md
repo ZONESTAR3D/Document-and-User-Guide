@@ -1,10 +1,10 @@
 We stored these documents in the below link
 
 User guide:
-https://www.jianguoyun.com/p/DUrwwDcQyoP1Bxiet7wD
+https://www.jianguoyun.com/p/DfK-RrQQyoP1BxjOwcED
 
 Operation guide and troubleshootings:
-https://www.jianguoyun.com/p/DfZ6N1QQyoP1Bxiut7wD
+https://www.jianguoyun.com/p/DfP46goQyoP1BxjXwcED
 
 Video tutorials:
 https://www.jianguoyun.com/p/DYPz3nwQyoP1BxjGt7wD
