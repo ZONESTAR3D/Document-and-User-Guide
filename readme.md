@@ -1,7 +1,7 @@
 We stored these documents in the below link
 
 User guide:
-https://www.jianguoyun.com/p/DcdFrDcQyoP1BxiRp8QD
+https://www.jianguoyun.com/p/Ddd6yzIQyoP1Bxi6gcUD
 
 Operation guide and troubleshootings:
 https://www.jianguoyun.com/p/DfP46goQyoP1BxjXwcED
