@@ -11,7 +11,7 @@ P802QR2: https://www.jianguoyun.com/p/DW0zVhUQyoP1BxjUxsUD
 M8: https://www.jianguoyun.com/p/DealOtEQyoP1BxjaxsUD 
 
 Operation guide and troubleshootings:
-https://www.jianguoyun.com/p/DRY74S0QyoP1Bxj_6sUD
+https://www.jianguoyun.com/p/DRxotVcQyoP1BxjEvccD
 
 Video tutorials:
 https://www.jianguoyun.com/p/DYPz3nwQyoP1BxjGt7wD
