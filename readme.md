@@ -11,8 +11,11 @@ P802QR2: https://www.jianguoyun.com/p/DW0zVhUQyoP1BxjUxsUD
 M8: https://www.jianguoyun.com/p/DealOtEQyoP1BxjaxsUD 
 
 Operation guide and troubleshootings:
-https://www.jianguoyun.com/p/DRxotVcQyoP1BxjEvccD
+https://www.jianguoyun.com/p/DXlK2D0QyoP1BxiEmsgD
 
 Video tutorials:
 https://www.jianguoyun.com/p/DYPz3nwQyoP1BxjGt7wD
+
+Firmware:
+https://www.jianguoyun.com/p/DankHcIQyoP1BxiYt7wD
 
