@@ -1,21 +1,20 @@
 We stored these documents in the below link
 
 User guide:
-Z5: https://www.jianguoyun.com/p/DZ1X1_kQyoP1BxiVxsUD 
-Z5X:https://www.jianguoyun.com/p/DeOaW8IQyoP1BxjIxsUD 
-Z6: https://www.jianguoyun.com/p/DS84n7sQyoP1BxjLxsUD 
-Z8: https://www.jianguoyun.com/p/DUEAjS4QyoP1BxjMxsUD 
-Z9: https://www.jianguoyun.com/p/DXZ-dBcQyoP1BxjQxsUD 
-Z10: https://www.jianguoyun.com/p/DTtxjxcQyoP1BxjRxsUD 
-P802QR2: https://www.jianguoyun.com/p/DW0zVhUQyoP1BxjUxsUD 
-M8: https://www.jianguoyun.com/p/DealOtEQyoP1BxjaxsUD 
+https://drive.google.com/drive/folders/1Wd24hmD4JQ6Uxp_8H6T1xrXHPGDxWNkd?usp=sharing
 
-Operation guide and troubleshootings:
-https://www.jianguoyun.com/p/DXlK2D0QyoP1BxiEmsgD
+Operation guide:
+https://drive.google.com/drive/folders/1Wd24hmD4JQ6Uxp_8H6T1xrXHPGDxWNkd?usp=sharing
 
-Video tutorials:
-https://www.jianguoyun.com/p/DYPz3nwQyoP1BxjGt7wD
+troubleshootings:
+https://drive.google.com/drive/folders/1CVU7oP8Qr3oQi9I8JY1HnDYxTtLTU5gn?usp=sharing
+
+Upgrade kit:
+https://drive.google.com/drive/folders/1zSkNzlxeS8E9NTiQD214WMXDJmUUy-_n?usp=sharing
+
+Test 3d file:
+https://drive.google.com/drive/folders/1fLse5VYdICxZ_VLlsd28oSOo1f1PR3Yx?usp=sharing
 
 Firmware:
-https://www.jianguoyun.com/p/DankHcIQyoP1BxiYt7wD
+https://drive.google.com/drive/folders/1fc0iuoWxwcW3sNuLMyHua4VcToIoVcd7?usp=sharing
 
