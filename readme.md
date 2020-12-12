@@ -1,21 +1,21 @@
 We stored these documents in the below link
 
 User guide:
-https://drive.google.com/drive/folders/1Wd24hmD4JQ6Uxp_8H6T1xrXHPGDxWNkd?usp=sharing
-https://www.jianguoyun.com/p/DfP7hawQyoP1BxiKmsgD
-
+Z5X>>https://www.jianguoyun.com/p/DeOaW8IQyoP1BxjIxsUD  
+Z6>>>https://www.jianguoyun.com/p/DS84n7sQyoP1BxjLxsUD 
+Z8T>> https://www.jianguoyun.com/p/DVLOaWYQyoP1BxiZpswD
+Z9M3>https://www.jianguoyun.com/p/DWveP4MQyoP1Bxjhx80D 
+Z9M4>https://www.jianguoyun.com/p/DQAlMeYQyoP1Bxjsx80D
+Upgrade kit ( Laser and TFT-LCD etc.) >>https://www.jianguoyun.com/p/DbY_0eUQyoP1BxiZ-8MD
 
 
 Operation guide:
-https://drive.google.com/drive/folders/1Wd24hmD4JQ6Uxp_8H6T1xrXHPGDxWNkd?usp=sharing
 https://www.jianguoyun.com/p/DXlK2D0QyoP1BxiEmsgD
 
 troubleshootings:
-https://drive.google.com/drive/folders/1CVU7oP8Qr3oQi9I8JY1HnDYxTtLTU5gn?usp=sharing
 https://www.jianguoyun.com/p/DXlK2D0QyoP1BxiEmsgD
 
 Upgrade kit:
-https://drive.google.com/drive/folders/1zSkNzlxeS8E9NTiQD214WMXDJmUUy-_n?usp=sharing
 https://www.jianguoyun.com/p/DfP7hawQyoP1BxiKmsgD >> ZONESTAR Upgrade Kit
 
 Test 3d file:
