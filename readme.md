@@ -10,9 +10,9 @@ Z8T User guide >>https://github.com/ZONESTAR3D/Z8T
 
 Z9M3 User guide >https://github.com/ZONESTAR3D/Z9/Z9M3
 
-Z9M4 User guide >https://github.com/ZONESTAR3D/Z9/Z9M4
+Z9M4 User guide >https://github.com/ZONESTAR3D/Z9/tree/main/Z9M4
 
-Z9V5 User guide >https://github.com/ZONESTAR3D/Z9/Z9V5
+Z9V5 User guide >https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5  https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5-MK2
 
 Upgrade kits ( Laser and TFT-LCD etc.): https://github.com/ZONESTAR3D/Upgrade-kit-guide
 
