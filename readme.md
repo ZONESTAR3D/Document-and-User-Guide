@@ -1,7 +1,7 @@
 # ZONESTAR 3D Printer DIY Kit and Documents overview
 ## User guide for 3D Printer DIY kit  
--Z5 User guide >>https://github.com/ZONESTAR3D/Z5  
--Z5X  User guide >>https://github.com/ZONESTAR3D/Z5X   
+- Z5 User guide >>https://github.com/ZONESTAR3D/Z5  
+- Z5X  User guide >>https://github.com/ZONESTAR3D/Z5X   
 - Z6 User guide >>>https://github.com/ZONESTAR3D/Z6  
 - Z8S User guide >>https://github.com/ZONESTAR3D/Z8S  
 - Z8T User guide >>https://github.com/ZONESTAR3D/Z8T  
