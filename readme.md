@@ -7,10 +7,10 @@
 - Z8T User guide >>https://github.com/ZONESTAR3D/Z8T  
 - Z9M3 User guide >https://github.com/ZONESTAR3D/Z9/tree/main/Z9M3  
 - Z9M4 User guide >https://github.com/ZONESTAR3D/Z9/tree/main/Z9M4  
-- Z9V5 User guide 
- - Z9V5-MK1: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5  
- - Z9V5-MK2: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5-MK2  
- - Z9V5-MK3: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5-MK3  
+- Z9V5 User guide  
+  - Z9V5-MK1: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5  
+  - Z9V5-MK2: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5-MK2  
+  - Z9V5-MK3: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5-MK3  
 
 ## Control board  
 https://github.com/ZONESTAR3D/Control-Board  
@@ -20,7 +20,7 @@ https://github.com/ZONESTAR3D/Upgrade-kit-guide
 
 ## Firmware
 - Firmware Hex(Bin) file: https://github.com/ZONESTAR3D/Firmware  
--Firmware Source code:  https://github.com/ZONESTAR3D/source-code-for-3d-printer  
+- Firmware Source code:  https://github.com/ZONESTAR3D/source-code-for-3d-printer  
 
 ## Slicing guide  
 https://github.com/ZONESTAR3D/Slicing-Guide  
