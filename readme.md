@@ -11,18 +11,29 @@
 #### :open_file_folder:[Z9V5-MK2 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK2](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK2)  
 #### :open_file_folder:[Z9V5-MK3 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3) 
 
-## Control board  
-- 3D printer control board documents: https://github.com/ZONESTAR3D/Control-Board  
-
-## Uprage kits and parts
-- 3D printer upgrade kits/parts documents: https://github.com/ZONESTAR3D/Upgrade-kit-guide
+## Slicing guide  
+ZONESTAR 3D printer slicing software and user guide: https://github.com/ZONESTAR3D/Slicing-Guide  
 
 ## Firmware
-- Firmware Hex(Bin) file: https://github.com/ZONESTAR3D/Firmware  
-- Firmware Source code:  https://github.com/ZONESTAR3D/source-code-for-3d-printer  
+- **Firmware Hex(Bin) file:** https://github.com/ZONESTAR3D/Firmware  
+- **Firmware Source code:**  https://github.com/ZONESTAR3D/source-code-for-3d-printer  
 
-## Slicing guide  
-https://github.com/ZONESTAR3D/Slicing-Guide  
+## Upgrade kits and parts
+3D printer upgrade kits/parts user manual and documents: https://github.com/ZONESTAR3D/Upgrade-kit-guide
+- **WiFi Module:** https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/WiFi
+- **Filament run out sensor:** https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/FROD
+- **HOTENDs:** https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND
+- **Bed Leveling Sensor:** https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Bed%20Leveling%20Sensor
+- **Direct Drive Extruder:** https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Direct%20Drive%20Extrruder
+- **Laser Engraving:** https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser%20Engraving
+- **Motor Drive Modules:** https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Motor%20Drive%20Module
+- **Auto Repeat Printing Module:** https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Auto_Repeat_Printing
+- **TFT LCD Screen:** https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD
+
+## 3D Printer Control Boards  
+3D printer control board user manual and documents: https://github.com/ZONESTAR3D/Control-Board  
+- **ZRIB & ZMIB:** https://github.com/ZONESTAR3D/Control-Board/tree/main/8bit
+- **ZM3E2 & ZM3E4:** https://github.com/ZONESTAR3D/Control-Board/tree/main/32bit
 
 ## How to downlod files from Github page
 #### Step 1: Click this link [**https://downgit.github.io/**](https://downgit.github.io/) 
