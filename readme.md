@@ -7,9 +7,10 @@
 #### :open_file_folder:[Z8P User guide: https://github.com/ZONESTAR3D/Z8P](https://github.com/ZONESTAR3D/Z8P)    
 #### :open_file_folder:[Z9M3 User guide: (https://github.com/ZONESTAR3D/Z9/tree/main/Z9M3](https://github.com/ZONESTAR3D/Z9/tree/main/Z9M3)  
 #### :open_file_folder:[Z9M4 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9M4](https://github.com/ZONESTAR3D/Z9/tree/main/Z9M4)  
-#### :open_file_folder:[Z9V5-MK1 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK1)  
-#### :open_file_folder:[Z9V5-MK2 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK2](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK2)  
-#### :open_file_folder:[Z9V5-MK3 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3) 
+#### :open_file_folder:[Z9V5 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5)
+- :point_right:[**Z9V5-MK1**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK1)  
+- :point_right:[**Z9V5-MK2**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK2)  
+- :point_right:[**Z9V5-MK3**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3) 
 
 ## Slicing guide  
 ZONESTAR 3D printer slicing software and user guide: https://github.com/ZONESTAR3D/Slicing-Guide  
