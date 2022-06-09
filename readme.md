@@ -41,7 +41,7 @@ Slicing is a piece of software that everyone uses when creating objects and prod
 - :blue_book: **ZRIB & ZMIB:** https://github.com/ZONESTAR3D/Control-Board/tree/main/8bit
 - :blue_book: **ZM3E2 & ZM3E4:** https://github.com/ZONESTAR3D/Control-Board/tree/main/32bit
 
-### How to downlod files from Github page
+### :memo: How to downlod files from Github page?
 #### Step 1: Click this link [**https://downgit.github.io/**](https://downgit.github.io/) 
 #### Step 2: Copy the Github file or direcotry link which you want to download.
 #### Step 3: Click download button and wait a few seconds, it will start to download automatically. 
