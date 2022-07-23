@@ -1,3 +1,15 @@
+### Choose Language (/ )Translated by google)
+[![](./lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=es)
+[![](./lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=pt)
+[![](./lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=fr)
+[![](./lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=ru)
+[![](./lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=it)
+[![](./lanpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=de)
+[![](./lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=pl)
+[![](./lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=ko)
+[![](./lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=ja)
+[![](./lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=ar)
+
 ## ZONESTAR 3D Printer DIY kits User guide
 #### :open_file_folder: Z5 User guide: https://github.com/ZONESTAR3D/Z5 
 #### :open_file_folder: Z5X  User guide: https://github.com/ZONESTAR3D/Z5X
