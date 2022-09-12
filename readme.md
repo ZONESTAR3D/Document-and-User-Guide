@@ -9,17 +9,20 @@
 [![](./lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=ko)
 [![](./lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=ja)
 [![](./lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=ar)
+[![](./lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
 ## ZONESTAR 3D Printer DIY kits User guide
 #### :open_file_folder: Z5 User guide: https://github.com/ZONESTAR3D/Z5 
 #### :open_file_folder: Z5X  User guide: https://github.com/ZONESTAR3D/Z5X
 #### :open_file_folder: Z6 User guide: https://github.com/ZONESTAR3D/Z6
+
 #### :open_file_folder: Z8S User guide: https://github.com/ZONESTAR3D/Z8S
 #### :open_file_folder: Z8T User guide: https://github.com/ZONESTAR3D/Z8T
 #### :open_file_folder: Z8P User guide: https://github.com/ZONESTAR3D/Z8P
+
 #### :open_file_folder: Z9M3 User guide: (https://github.com/ZONESTAR3D/Z9/tree/main/Z9M3
 #### :open_file_folder: Z9M4 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9M4
-#### :open_file_folder: Z9V5 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5
+#### :open_file_folder: Z9V5 series 3D Printers : https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5
   - :blue_book:**Z9V5-MK1 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK1**
   - :blue_book:**Z9V5-MK2 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK2**
   - :blue_book:**Z9V5-MK3 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3**
@@ -32,8 +35,8 @@ Slicing is a piece of software that everyone uses when creating objects and prod
 ## Firmware
 **Firmware bin file** is the exact memory that is written to the embedded flash.    
 **Firmware source code** is the core part of the firmware. The entire firmware can be thought of as different sub modules. It is divided into many sub files. These files are called source files. And, the entire program files are called source file or source code. Now our firmware source code is base on [**marlin**](https://www.marlinfw.org).  
-- :blue_book: **ZONESTAR 3D Printer Firmware Bin files:** https://github.com/ZONESTAR3D/Firmware
-- :blue_book: **ZONESTAR 3D Printer Firmware Source code:** https://github.com/ZONESTAR3D/source-code-for-3d-printer
+- :blue_book: **ZONESTAR 3D Printer Firmware Bin files: https://github.com/ZONESTAR3D/Firmware**
+- :blue_book: **ZONESTAR 3D Printer Firmware Source code: https://github.com/ZONESTAR3D/source-code-for-3d-printer**
 
 ## Upgrade kits and parts
 We provide some upgradeable features for our 3D printers. If you are interested in these upgradeable parts / kits, please refer to the following links. **Primary link**: https://github.com/ZONESTAR3D/Upgrade-kit-guide
