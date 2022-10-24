@@ -12,21 +12,23 @@
 [![](./lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
 ## ZONESTAR 3D Printer DIY kits User guide
-#### :open_file_folder: Z5 User guide: https://github.com/ZONESTAR3D/Z5 
-#### :open_file_folder: Z5X  User guide: https://github.com/ZONESTAR3D/Z5X
-#### :open_file_folder: Z6 User guide: https://github.com/ZONESTAR3D/Z6
-
-#### :open_file_folder: Z8S User guide: https://github.com/ZONESTAR3D/Z8S
-#### :open_file_folder: Z8T User guide: https://github.com/ZONESTAR3D/Z8T
-#### :open_file_folder: Z8P User guide: https://github.com/ZONESTAR3D/Z8P
-
-#### :open_file_folder: Z9M3 User guide: (https://github.com/ZONESTAR3D/Z9/tree/main/Z9M3
-#### :open_file_folder: Z9M4 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9M4
-#### :open_file_folder: Z9V5 series 3D Printers : https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5
-  - :blue_book:**Z9V5-MK1 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK1**
-  - :blue_book:**Z9V5-MK2 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK2**
-  - :blue_book:**Z9V5-MK3 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3**
-  - :blue_book:**Z9V5-MK4 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4**  
+### :file_folder: Z5 series
+  - :open_file_folder: **Z5 User guide: https://github.com/ZONESTAR3D/Z5**
+  - :open_file_folder: **Z5X  User guide: https://github.com/ZONESTAR3D/Z5X**
+### :file_folder: Z6 series
+  - :open_file_folder: **Z6 User guide: https://github.com/ZONESTAR3D/Z6**
+### :file_folder: Z8 series
+  - :open_file_folder: **Z8S User guide: https://github.com/ZONESTAR3D/Z8S**
+  - :open_file_folder: **Z8T User guide: https://github.com/ZONESTAR3D/Z8T**
+  - :open_file_folder: **Z8P User guide: https://github.com/ZONESTAR3D/Z8P**
+### :file_folder: Z9 series
+  - :open_file_folder: **Z9M3 User guide: (https://github.com/ZONESTAR3D/Z9/tree/main/Z9M3**
+  - :open_file_folder: **Z9M4 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9M4**
+  - :open_file_folder: **Z9V5 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5**
+    - :blue_book:**Z9V5-MK1 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK1**
+    - :blue_book:**Z9V5-MK2 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK2**
+    - :blue_book:**Z9V5-MK3 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3**
+    - :blue_book:**Z9V5-MK4 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4**  
 
 ## Slicing guide  
 Slicing is a piece of software that everyone uses when creating objects and products on a 3D printer. The software gives the printer a path to follow. The slicing software takes your image and converts it into G codes that your 3D printer can understand. These G codes are a type of instruction on how the printer needs to print your design. For more information, please refer to  :page_with_curl: [**Reference 1**](https://loveandrobots.com/what-is-slicing-in-3d-printing/)  :page_with_curl: [**Reference 2**](https://en.wikipedia.org/wiki/Slicer_(3D_printing))  
