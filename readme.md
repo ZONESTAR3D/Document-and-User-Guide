@@ -45,10 +45,10 @@ We provide some upgradeable features for our 3D printers. If you are interested 
 - :blue_book: [**WiFi Module**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/WiFi) - wireless control feature 
 - :blue_book: [**Filament run out sensor**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/FROD) - Detect that filaments are exhausted and automatically pause printing.
 - :blue_book: [**HOTENDs(Extruder)**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND) - Various types of hot ends meet different kinds of filaments and printing requirements.
-- :blue_book: [**Bed Leveling Sensor**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Bed%20Leveling%20Sensor) - Automatica Bed Leveling feature and parts.
-- :blue_book: [**Direct Drive Extruder**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Direct%20Drive%20Extrruder) - The direct drive extruder can print flexible filament. Moreover, the printing quality is better, and the possibility of printing failure and defects is lower.
-- :blue_book: [**Laser Engraving**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser%20Engraving) - Let your 3D printer have simple laser engraving function.
-- :blue_book: [**Motor Drive Modules**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Motor%20Drive%20Module) - Some motor drive modules can provide higher drive current and lower operating noise.
+- :blue_book: [**Bed Leveling Sensor**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Bed_Leveling_Sensor) - Automatica Bed Leveling feature and parts.
+- :blue_book: [**Direct Drive Extruder**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Direct_Drive_Extrruder) - The direct drive extruder can print flexible filament. Moreover, the printing quality is better, and the possibility of printing failure and defects is lower.
+- :blue_book: [**Laser Engraving**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser_Engraving) - Let your 3D printer have simple laser engraving function.
+- :blue_book: [**Motor Drive Modules**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Motor_Driver) - Some motor drive modules can provide higher drive current and lower operating noise.
 - :blue_book: [**Auto Repeat Printing Module**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Auto_Repeat_Printing) - Turn your 3D printer into an automatic continuous production machine (only applicable to z9v5).
 - :blue_book: [**TFT LCD Screen**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD) - Provide better human-machine interface.
 
