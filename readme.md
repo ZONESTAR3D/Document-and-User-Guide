@@ -22,7 +22,7 @@
   - :open_file_folder: **Z8T User guide: https://github.com/ZONESTAR3D/Z8T**
   - :open_file_folder: **Z8P User guide: https://github.com/ZONESTAR3D/Z8P**
     - :blue_book:**Z8P User guide: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P**
-    - :blue_book:**Z8P-MK2 User guide: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2**
+    <!-- - :blue_book:**Z8P-MK2 User guide: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2** -->
 ### :file_folder: Z9 series
   - :open_file_folder: **Z9M3 User guide: (https://github.com/ZONESTAR3D/Z9/tree/main/Z9M3**
   - :open_file_folder: **Z9M4 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9M4**
