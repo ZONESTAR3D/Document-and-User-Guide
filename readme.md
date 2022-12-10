@@ -1,16 +1,24 @@
 ### Choose Language (Translated by google)
+[![](./lanpic/EN.png)](https://github.com/ZONESTAR3D/Document-and-User-Guide)
 [![](./lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=es)
-[![](./lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=pt)
 [![](./lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=fr)
-[![](./lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=ru)
-[![](./lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=it)
+[![](./lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=pt)
 [![](./lanpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=de)
+[![](./lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=it)
 [![](./lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=pl)
-[![](./lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=ko)
+[![](./lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=ru)
+[![](./lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=el)
 [![](./lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=ja)
+[![](./lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=ko)
+[![](./lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=id)
+[![](./lanpic/TH.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=th)
+[![](./lanpic/VN.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=vi)
+[![](./lanpic/IL.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=iw)
 [![](./lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=ar)
+[![](./lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=tr)
 [![](./lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
+----
 ## ZONESTAR 3D Printer DIY kits User guide
 ### :file_folder: Z5 series
   - :open_file_folder: **Z5 User guide: https://github.com/ZONESTAR3D/Z5**
