@@ -21,21 +21,20 @@
 
 ----
 ## ZONESTAR 3d printer overseas warehouse arrival schedule
-|    Model(SKU)   | USA | ETA |Canada| ETA |Mexico| ETA |Brazil| ETA |
-|-----------------|-----|-----|------|-----|------|-----|------|-----|
-|Z8PM4-Pro        |	0	  |15/01|	   0 |20/01|	0	  |20/01|		0  |10/03|
-|Z9V5Pro-MK4      |	FS	|  /	|    0 |20/01|	FS	|  /	|   0	 |10/03|
-|Z9V5Pro-MK4-4x200|	FS	|  /	|   -1 | /	 |  -1	|  /	|  -1	 |  /	 |
+|    Model(SKU)   | USA |    ETA   |Canada|    ETA   |Mexico|    ETA   |Brazil|    ETA   |
+|-----------------|-----|----------|------|----------|------|----------|------|----------|
+|Z8PM4-Pro        |	0	  |2023/01/15|   0  |2023/01/20|	0	  |2023/01/20|  0   |2023/03/01|
+|Z9V5Pro-MK4      |	FS	|     /	   |   0  |2023/01/20|	FS	|    /	   |  0	  |2023/03/01|
+|Z9V5Pro-MK4-4x200|	FS	|     /	   |  -1  |    /     |  -1	|    /	   |  -1	|     / 	 |
 
-|    Model(SKU)   |  EU | ETA |Russian| ETA |Australia| ETA |Remark|
-|-----------------|-----|-----|-------|-----|---------|-----|------|
-|Z8PM4-Pro        |	 0  |10/02|	  0   |20/02|	  -1    |  /  |      |
-|Z9V5Pro-MK4      |  FS |  /	|   0	  |20/02|   -1	  |  /  |      |
-|Z9V5Pro-MK4-4x200|  0  |20/02|   -1	|  /  |   -1	  |  /  |      |
+|    Model(SKU)   |  EU |    ETA   |Russian|    ETA   |Australia|    ETA   |
+|-----------------|-----|----------|-------|----------|---------|----------|
+|Z8PM4-Pro        |	 0  |2023/02/10|   0   |2023/02/20|	   0    |2023/02/20|
+|Z9V5Pro-MK4      |  FS |    /	   |   0	 |2023/02/10|    0 	  |2023/02/20|
+|Z9V5Pro-MK4-4x200|  -1 |    /     |   -1	 |     /    |   -1	  |    /     |
 										
 NOTE:
-1. **EOP** means End of Produce.
-2. **ETA** means Estimated Time of Arrival.
-3. **FS**  means the goods are Fully Stocked.
-4. **A quantity of -1** means that we have no plan to send inventory to this warehouse
-5. **A quantity of  0** means that the inventory is sold out, please refer to the next grid for the estimated arrival time of the next batch.
+1. **ETA** means Estimated Time of Arrival.
+2. **FS**  means the goods are Fully Stocked.
+3. **A quantity of -1** means that we have no plan to send inventory to this warehouse
+4. **A quantity of  0** means that the inventory is sold out, the next grid showed the estimated arrival time of the next batch goods.
