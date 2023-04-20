@@ -105,7 +105,7 @@ By adding a M167 command into the "Start G-code" of slicing software, and sliced
 	E3->3 extruders (Extruder #1 to Extruder #3) will be used to mix
 
 -----
-## How to set mixing ratio of virtual extruder (for 4-IN-1-OUT mix Color hot end)
+## How to set mixing ratio of virtual extruder
 We can set the mixing ratio of each virtual extruder by LCD control panel or adding command in the "Start G-code" of slicing software.
 :warning:If a printing from SD card is finished or abort, the machine will automatically reset mixing ratio of all virtual extruders to default.
 ### Set mixing ratio by LCD control panel
