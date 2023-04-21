@@ -38,7 +38,7 @@ The color mixing feature is a function to mix multi different color filaments an
 
 -----
 ## Term explanation
-Some proper noun are used in mixing color printing, this section made a detail description to these names, to help understanding the following documents better.
+Some proper noun are used in mixing color printing, this section made a detail description to these names, to understand the following documents better.
 #### Bowden extruder
 A Bowden extruder is a type of extruder that pushes filament through a long and flexible PTFE tube (Bowden tube) to the hot end. ZONESTAR multi color 3d printers are used Bowden extruder. [:page_with_curl:wiki page](https://en.wikipedia.org/wiki/3D_printer_extruder)        
 ![](./BowdenExtruder.jpg)      
@@ -51,7 +51,7 @@ The volume ratio of each filament added during mixing is called "mixing ratio", 
 The ZONESTAR 3D printer supports setting the mixing ratio based on percentage or extruder ratio relationships. For example, "E1:E2:E3:E4 = 10:20:30:40" and "E1:E2:E3:E4 = 1:2:3:4" and "E1:E2:E3:E4 = 0.2: 0.4: 0.6: 0.8" are equivalent. But when the mix ratio showed on LCD screen, they are always displayed at a percentage.
 #### Virtual extruder / Virtual Tool / VTool
 Since in slicing software, one extruder corresponds to one filament, in order to use the mixed filament, we can make the slicing software think that this is a new extruder. And in order to distinguish it from the actual extruder, it is called "virtual extruder". The "virtual extruder" also be called "virtual Tool" or simply as "VTOOL".   
-For ZONESTAR mix color 3d printer, 16 virtual extruders has been set and they have a default mixing ratio. You can change the mixing ratio of each virtual extruder any time, but after the machine restart, a printing (from SD card) is finished or abort, they will be reset to default value automatically.     
+For ZONESTAR mix color 3d printer, 16 virtual extruders has been set and they have a default mixing ratio. You can change the mixing ratio of each virtual extruder any time, but after the machine restart, a process of printing from SD card is finished or abort, they will be reset to default value automatically.     
 ##### :warning: Note 
 1. To distinguish between an actual extruder and a virtual extruder, the actual extruder will be written as "Extruder #n" or "En" (n is from 1 to 4), such as "Extruder #1" or "E1", and the virtual extruder will be written as "VTOOLm" (m is from 0 to 15), such as "VTOOL4".
 2. The default mixing ratio of virtual extruder may different in the different versions firmware, please read the release note of the firmware.          
