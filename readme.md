@@ -49,7 +49,7 @@
 
 ## Slicing guide  
 Slicing is a piece of software that everyone uses when creating objects and products on a 3D printer. The software gives the printer a path to follow. The slicing software takes your image and converts it into G codes that your 3D printer can understand. These G codes are a type of instruction on how the printer needs to print your design. For more information, please refer to  :page_with_curl: [**Reference 1**](https://loveandrobots.com/what-is-slicing-in-3d-printing/)  :page_with_curl: [**Reference 2**](https://en.wikipedia.org/wiki/Slicer_(3D_printing))  
-For details about Slicing software applied to ZONESTAR 3D printers, please refer to **[https://github.com/ZONESTAR3D/Slicing-Guide](https://github.com/ZONESTAR3D/Slicing-Guide)**.
+For details about Slicing software, please refer to **[https://github.com/ZONESTAR3D/Slicing-Guide](https://github.com/ZONESTAR3D/Slicing-Guide)**.
 
 ## Mixing color guide
 The color mixing feature is a function to mix multi different color filaments and extruded from one nozzle to get a new color filament. By adjusting the extrude ratio of each extruder, it can get different color filament. For example, mix Magenta and Yellow filament as a ratio 5:1 to get Red filament, and mix Magenta and Yellow filament as a ratio 1:1 to get Orange filament.    
