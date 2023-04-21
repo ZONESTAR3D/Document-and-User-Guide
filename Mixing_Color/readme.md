@@ -34,7 +34,7 @@ The color mixing feature is a function to mix multi different color filaments an
 1. **Manual color mixing feature:** Manually adjust the extrusion ratio of each extruder ([mixing ratio](#mixing-ratio)) by the LCD control panel to change the printing color.
 2. **Gradient color mixing feature:** The gradient mix function is a feature of changing the [mixing ratio](#mixing-ratio) according to printing height automatically. It can be activated from the LCD control panel or by adding gcode to "Start G-code" when slicing.
 3. **Random color mixing feature:** The random mix function is a feature of changing the [mixing ratio](#mixing-ratio) according to printing height randomly. It can be activated from the LCD control panel or by adding gcode to "Start G-code" when slicing.
-4. **Mixed multi-color feature** To use [**virtual extruder**](#virtual-extruder--virtual-tool--vtool), the printer can print more colors than the actual extruders. For example, printing 8 color 3d models by using a 4 extruders 3d printer. Now ZONESTAR mix color 3d printer can set up to 16 ***virtual extruders***.
+4. **Mixed multi-color feature** To use a [**virtual extruder**](#virtual-extruder--virtual-tool--vtool), the mixing color 3d printer can print more colors than the actual extruders. For example, printing 8 color 3d models by using a 4 extruders. Now ZONESTAR mix color 3d printer can set up to 16 virtual extruders.
 
 -----
 ## Term explanation
