@@ -85,6 +85,8 @@ Commands list as below:
 	After that, the VTOOL4 has been set mix ratio "E1:E2:E3:E4 = 10:20:30:40". When using VTOOL4, 4 actual extruders will feed 
 	filaments in a ratio of 10:20:30:40.
 
+:warning: You can use a "M163 R" command to reset the mixing ratio settings of all virtual extruders to default.
+
 -----
 ## [:book:Auto mixing color operation manual][auto_mixing]
 The manual color mixing, gradient color mixing and random color mixing feature usually be used for printing models such as gradient vases. About the detail operation manuals, please refer to [:book:**this guide**][auto_mixing].     
