@@ -95,7 +95,6 @@ Here is a set of reference mixing ratio settings for mixing Cyan, Magenta, and Y
 |   14       | 0/25/25/50 |      Yellow-Brown  |      R106 G106 B83         |
 |   14       | 0/33/33/34 |      Brown         |      R83  G83  B83         |
 
-
 **\*** Extruder color: RGB value of the extruder color is used to set the extruder color in slicint software.
 ![](./extrudercolor.jpg) 
 

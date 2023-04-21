@@ -75,16 +75,15 @@ Commands list as below:
 	M163 S3 Pn		; set the mix ratio of actual extruder #4, "n" is from 0 to 100
 	M164 Sm   		; save the mix ratio of extruders to the "VTOOLm", "m" is from 0 to 16
 	
-	For example, you added the below commands into the "Start G-code" of slicing software
+For example, you added the below commands into the "Start G-code" of slicing software.
+>
 	M163 S0 P10		
 	M163 S1 P20		
 	M163 S2 P30		
 	M163 S3 P40		
 	M164 S4
 	
-	After that, the VTOOL4 has been set mix ratio "E1:E2:E3:E4 = 10:20:30:40". When using VTOOL4, 4 actual extruders will feed 
-	filaments in a ratio of 10:20:30:40.
-
+After that, the VTOOL4 has been set mix ratio "E1:E2:E3:E4 = 10:20:30:40". When using VTOOL4, 4 actual extruders will feed filaments in a ratio of 10:20:30:40.    
 :warning: You can use a "M163 R" command to reset the mixing ratio settings of all virtual extruders to default.
 
 -----
