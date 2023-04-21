@@ -27,7 +27,10 @@
 
 -----
 # Mixed multi-color operation manual
-This section will introduce how to use a virtual extruder to print 3D models with more colors than the number of extruders.
+This section will introduce how to use a virtual extruder to print 3D models with more colors than the number of extruders.    
+
+### :warning: NOTE
+**This guide is based on PrusaSlicer slicing software. For downloading, using of the PrusaSlicer, please refer to [here](https://github.com/ZONESTAR3D/Slicing-Guide).**
 
 -----
 ## Slicing steps
