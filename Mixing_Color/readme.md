@@ -27,6 +27,7 @@
 
 -----
 # Color Mixing Feature User Guide
+### :warning: This guide is for 4 extruders with 4-IN-1-OUT mix color hot end.
 The color mixing function is the characteristic that to mix different color filaments and extruded out from one nozzle to get a new color filament.By adjusting the extrude ratio of each extruder, it can get different color filament.
 The machine can achieve the following color mixing functions:
 1. **Manual color mixing feature:** Manually adjust the extrusion ratio of each extruder ([mixing ratio](#mixing-ratio)) by the LCD control panel to change the printing color.

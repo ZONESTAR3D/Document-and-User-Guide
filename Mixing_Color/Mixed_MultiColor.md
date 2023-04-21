@@ -26,39 +26,45 @@
 [![](../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Mixed_MultiColor.md?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
 -----
-## Mixed multi-color operation manual
+# Mixed multi-color operation manual
 This section will introduce how to use a virtual extruder to print 3D models with more colors than the number of extruders.
 
 -----
-### Slicing steps
-#### Step 1: Set the number of extruders
+## Slicing steps
+### Step 1: Set the number of extruders
 ![](./slicing1.jpg)
-#### Step 2: Set the mixing ratios of VTOOLs
+### Step 2: Set the mixing ratios of VTOOLs
 Add mixing ratios of VTOOLs setting into the "Start G-code". [:page_with_curl: How to set mixing ratio of Virtual extruder](#how-to-set-mixing-ratio-of-virtual-extruder)
 ![](./slicing2.jpg)
-#### :pushpin:Note
+### :pushpin:Note
 You can download the setting from the bewlow link and unzip it, and then import the setting to your slicing software (PrusaSlicer).
 - [:arrow_down: Download config file](./config_WCMY.zip)    
 - [:clapper: Video tutorial](https://user-images.githubusercontent.com/29502731/232972117-387a9e15-f3c7-417b-aff6-d876e119b70d.mp4)
-#### Step 3: Assign an extruder to the components
+### Step 3: Assign an extruder to the components
 ![](./slicing3.jpg)
 #### Step 4: Slicing and save gcode to SD card
 #### Step 5: Print the file from SD card
 
 -----
-### Examples
-#### 6 color OWL
+## Examples
+### 6 color OWL
+![](./owl.jpg)
 - **[:clapper:Video tutorial](https://user-images.githubusercontent.com/29502731/232977232-4e8031b2-9142-4db2-9cef-12b85759fa17.mp4)**
 - **[:arrow_down:Download stl file](https://www.thingiverse.com/thing:2373415)**
 - **[:arrow_down:Download 3mf & gcode file](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/M4_6c_owl.zip)**
-#### 10 color Noahs
+### 10 color Noahs
+![](./noahs.jpg)
 - **[Video tutorial::clapper:Part1](https://user-images.githubusercontent.com/29502731/233287512-25575666-60ff-4b08-88a2-e3ff8149599f.mp4) [:clapper:Part2](https://user-images.githubusercontent.com/29502731/233287715-8dd8517e-8260-41ec-888b-8ba28b692c27.mp4)  [:clapper:Part3](https://user-images.githubusercontent.com/29502731/233287893-a31ec2ab-e4e6-4080-8a97-6ccf92502fa4.mp4)**
 - **[:arrow_down:Download stl file](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/noahs.zip)**
 - **[:arrow_down:Download 3mf & gcode file](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/M4_10c_noahs.zip)**
-<!-- #### 16 color  -->
-<!-- - **[:clapper:Video tutorial]()** -->
-<!-- - **[:arrow_down:Download stl file]()** -->
-<!-- - **[:arrow_down:Download 3mf & gcode file]()** -->
+### 16 color tower
+![](./tower.jpg)     
+#### :warning:Note
+1. When slicing, the wipe tower (prime tower) is disabled, so the color at the boundary may be inaccurate.
+2. To print this color tower, you can check the actual print color after setting the mixing ratio.
+- **[:clapper:Video tutorial](https://user-images.githubusercontent.com/29502731/233582725-251e2a25-62b9-4c75-b5f1-ad7929ffa192.mp4)**
+- **[:arrow_down:Download stl file](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/colortower_stl.zip)**
+- **[:arrow_down:Download 3mf & gcode file](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/M4_16c_colortower.zip)**
 
 -----
 ### Appendix: Color mixing ratio reference settings 
@@ -93,8 +99,8 @@ Here is a set of reference mixing ratio settings for mixing Cyan, Magenta, and Y
 **\*** Extruder color: RGB value of the extruder color is used to set the extruder color in slicint software.
 ![](./extrudercolor.jpg) 
 
-#### Gcodes list
-You can copy the blow to the "Start G-code" in slicint software to set the virtual extruders.
+-	**Gcodes list:**     
+You can copy the blow to the "Start G-code" in slicing software to set the virtual extruders.
 >
 		;White
 		M163 S0 P100
