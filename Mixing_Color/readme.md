@@ -28,8 +28,9 @@
 -----
 # Color Mixing Feature User Guide
 ### :warning: This guide is made for 4 extruders with 4-IN-1-OUT mix color hot end.
-The color mixing feature is a function to mix multi different color filaments and extruded from one nozzle to get a new color filament. By adjusting the extrude ratio of each extruder, it can get different color filament. For example, mix Magenta and Yellow filament as a ratio 5:1, we can get Red filament, and mix Magenta and Yellow filament as a ratio 1:1, we can get Orang filament.  
-ZONESTAR mix color 3d printer can achieve the following functions:
+The color mixing feature is a function to mix multi different color filaments and extruded from one nozzle to get a new color filament. By adjusting the extrude ratio of each extruder, it can get different color filament. For example, mix Magenta and Yellow filament as a ratio 5:1 to get Red filament, and mix Magenta and Yellow filament as a ratio 1:1 to get Orange filament.  
+
+### ZONESTAR mix color 3d printer can achieve the following functions:
 1. **Manual color mixing feature:** Manually adjust the extrusion ratio of each extruder ([mixing ratio](#mixing-ratio)) by the LCD control panel to change the printing color.
 2. **Gradient color mixing feature:** The gradient mix function is a feature of changing the [mixing ratio](#mixing-ratio) according to printing height automatically. It can be activated from the LCD control panel or by adding gcode to "Start G-code" when slicing.
 3. **Random color mixing feature:** The random mix function is a feature of changing the [mixing ratio](#mixing-ratio) according to printing height randomly. It can be activated from the LCD control panel or by adding gcode to "Start G-code" when slicing.
@@ -37,7 +38,7 @@ ZONESTAR mix color 3d printer can achieve the following functions:
 
 -----
 ## Term explanation
-The following documents may mention some proper noun that will be used in color mixing printing. Let's give a description of these names so that you can better understand the content of the following documents.
+Some proper noun are used in mixing color printing, this section made a detail description to these names, to help understanding the following documents better.
 #### Bowden extruder
 A Bowden extruder is a type of extruder that pushes filament through a long and flexible PTFE tube (Bowden tube) to the hot end. ZONESTAR multi color 3d printers are used Bowden extruder. [:page_with_curl:wiki page](https://en.wikipedia.org/wiki/3D_printer_extruder)        
 ![](./BowdenExtruder.jpg)      
@@ -58,7 +59,7 @@ For ZONESTAR mix color 3d printer, 16 virtual extruders has been set and they ha
 
 -----
 ## How to set mixing ratio of virtual extruder (for 4-IN-1-OUT mix Color hot end)
-We can set the mixing ratio of each virtual extruder by LCD control panel or by dding command in the gcode file.
+We can set the mixing ratio of each virtual extruder by LCD control panel or by adding command in the gcode file.
 ### Set mixing ratio by LCD control panel
 Steps:
 - **Control>>Mixer>>Mix>>VTOOL: x** Choose the virtual extruder number which you need to set(x is from 0 to 15)
