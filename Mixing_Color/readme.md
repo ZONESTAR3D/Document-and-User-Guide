@@ -90,6 +90,8 @@ After that, the VTOOL4 has been set mix ratio "E1:E2:E3:E4 = 10:20:30:40". When 
 ## [:book:Auto mixing color operation manual][auto_mixing]
 The manual color mixing, gradient color mixing and random color mixing feature usually be used for printing models such as gradient vases. About the detail operation manuals, please refer to [:book:**this guide**][auto_mixing].     
 ![](./2.jpg)![](./4.jpg)   
+
+-----
 ## [:book:Mixed multi-color operation manual][mixed_multi_color]
 For how to use a virtual extruder to print 3D models with more colors than the number of extruders, please refer to [:book:**this guide**][mixed_multi_color].     
 ![](./6.jpg)  
