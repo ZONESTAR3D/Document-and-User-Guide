@@ -94,7 +94,7 @@ The manual color mixing, gradient color mixing and random color mixing feature u
 -----
 ## [:book:Mixed multi-color operation manual][mixed_multi_color]
 For how to use a virtual extruder to print 3D models with more colors than the number of extruders, please refer to [:book:**this guide**][mixed_multi_color].     
-![](./6.jpg)  
+![](./noahs.jpg) ![](./owl.jpg)  
 
 -----
 [auto_mixing]: https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md
