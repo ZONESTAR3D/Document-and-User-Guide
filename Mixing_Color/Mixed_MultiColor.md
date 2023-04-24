@@ -73,7 +73,7 @@ You can download the setting from the bewlow link and unzip it, and then import 
 
 -----
 ### Appendix: Color mixing ratio reference settings 
-Here is a set of reference mixing ratio settings for mixing Cyan, Magenta, and Yellow filament into other color filament.
+Here is a set of reference mixing ratio settings to mix Cyan, Magenta, and Yellow filament to another color.
 -	**Filament color:**
 	-	E1: White
 	- E2: Cyan
@@ -100,7 +100,7 @@ Here is a set of reference mixing ratio settings for mixing Cyan, Magenta, and Y
 |   14       | 0/25/25/50 |      Yellow-Brown  |      R106 G106 B83         |
 |   14       | 0/33/33/34 |      Brown         |      R83  G83  B83         |
 
-**\*** Extruder color: RGB value of the extruder color is used to set the extruder color in slicint software.
+**\*** Extruder color: RGB value of the extruder color is used to set the extruder color in slicing software.
 ![](./extrudercolor.jpg) 
 
 -	**Gcodes list:**     
