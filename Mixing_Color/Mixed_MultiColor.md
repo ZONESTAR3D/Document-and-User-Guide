@@ -31,7 +31,7 @@ This guide introduce how to print 6 to 16 colors 3D model with a 4-IN-1-OUT Mixi
 
 ### :warning: NOTE
 - **This guide is based on PrusaSlicer slicing software. How to download, install and use PrusaSlicer, please refer to [:point_right:here](https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer).**     
-- **To know more about mixing color features, please refer to [:point_right:here](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color).**
+- **To know more about mix color feature, please refer to [:point_right:here](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color).**
 - **To know more about ZONESTAR 4-IN-1-OUT mix color extruder, please refer to [:point_right:here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend).**
 
 -----
