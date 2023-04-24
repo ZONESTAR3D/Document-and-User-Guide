@@ -27,10 +27,12 @@
 
 -----
 # Mixed multi-color operation manual
-This section will introduce how to use a virtual extruder to print 3D models with more colors than the number of extruders.    
+This guide introduce how to print 6 to 16 colors 3D model with a 4-IN-1-OUT Mixing Color Hotend.
 
 ### :warning: NOTE
-**This guide is based on PrusaSlicer slicing software. For downloading, using of the PrusaSlicer, please refer to [here](https://github.com/ZONESTAR3D/Slicing-Guide).**
+- **This guide is based on PrusaSlicer slicing software. How to download, install and use PrusaSlicer, please refer to [:point_right:here](https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer).**     
+- **To know more about mixing color features, please refer to [:point_right:here](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color).**
+- **To know more about ZONESTAR 4-IN-1-OUT mix color hotend, please refer to [:point_right:here](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend).**
 
 -----
 ## Slicing steps
