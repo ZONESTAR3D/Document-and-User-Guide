@@ -54,12 +54,12 @@ You can download the setting from the bewlow link and unzip it, and then import 
 ## Examples
 ### 6 color OWL
 ![](./owl.jpg)
-- **[:clapper:Video tutorial](https://user-images.githubusercontent.com/29502731/232977232-4e8031b2-9142-4db2-9cef-12b85759fa17.mp4)**
+- **[:clapper:Slicing video tutorial](https://user-images.githubusercontent.com/29502731/232977232-4e8031b2-9142-4db2-9cef-12b85759fa17.mp4)**
 - **[:arrow_down:Download stl file](https://www.thingiverse.com/thing:2373415)**
 - **[:arrow_down:Download 3mf & gcode file](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/M4_6c_owl.zip)**
 ### 10 color Noahs
 ![](./noahs.jpg)
-- **[Video tutorial::clapper:Part1](https://user-images.githubusercontent.com/29502731/233287512-25575666-60ff-4b08-88a2-e3ff8149599f.mp4) [:clapper:Part2](https://user-images.githubusercontent.com/29502731/233287715-8dd8517e-8260-41ec-888b-8ba28b692c27.mp4)  [:clapper:Part3](https://user-images.githubusercontent.com/29502731/233287893-a31ec2ab-e4e6-4080-8a97-6ccf92502fa4.mp4)**
+- **[Slicing video tutorial::clapper:Part1](https://user-images.githubusercontent.com/29502731/233287512-25575666-60ff-4b08-88a2-e3ff8149599f.mp4) [:clapper:Part2](https://user-images.githubusercontent.com/29502731/233287715-8dd8517e-8260-41ec-888b-8ba28b692c27.mp4)  [:clapper:Part3](https://user-images.githubusercontent.com/29502731/233287893-a31ec2ab-e4e6-4080-8a97-6ccf92502fa4.mp4)**
 - **[:arrow_down:Download stl file](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/noahs.zip)**
 - **[:arrow_down:Download 3mf & gcode file](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/M4_10c_noahs.zip)**
 ### 16 color tower
@@ -67,7 +67,7 @@ You can download the setting from the bewlow link and unzip it, and then import 
 #### :warning:Note
 1. When slicing, the wipe tower (prime tower) is disabled, so the color at the boundary may be inaccurate.
 2. To print this color tower, you can check the actual print color after setting the mixing ratio.
-- **[:clapper:Video tutorial](https://user-images.githubusercontent.com/29502731/233582725-251e2a25-62b9-4c75-b5f1-ad7929ffa192.mp4)**
+- **[:clapper:Slicing video tutorial](https://user-images.githubusercontent.com/29502731/233582725-251e2a25-62b9-4c75-b5f1-ad7929ffa192.mp4)**
 - **[:arrow_down:Download stl file](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/colortower_stl.zip)**
 - **[:arrow_down:Download 3mf & gcode file](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/M4_16c_colortower.zip)**
 
