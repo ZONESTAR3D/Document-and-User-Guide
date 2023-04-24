@@ -81,7 +81,7 @@ Here is a set of reference mixing ratio settings to mix Cyan, Magenta, and Yello
 	- E4: Yellow
 -	**mix ratio and extruder color:**
 
-|VTOOL number|mixing ratio|mixed filament color|Extruder color <sup>*</sup> |
+|VTOOL number|Mixing Ratio| Color after Mixed  |Extruder Color <sup>*</sup> |
 |:----------:|:----------:|:------------------:|:--------------------------:|
 |    0       |  100/0/0/0 |      White         |      R255 G255 B255        |
 |    1       |  0/100/0/0 |      Cyan          |      R0   G255 B255        |
@@ -100,7 +100,8 @@ Here is a set of reference mixing ratio settings to mix Cyan, Magenta, and Yello
 |   14       | 0/25/25/50 |      Yellow-Brown  |      R106 G106 B83         |
 |   14       | 0/33/33/34 |      Brown         |      R83  G83  B83         |
 
-**\*** Extruder color: RGB value of the extruder color is used to set the extruder color in slicing software.
+**\*Extruder color:** The RGB value is used to set the extruder color in the slicing software, and it is only used to distinguish different parts of the 3D model, it isn't the actual printed color.
+
 ![](./extrudercolor.jpg) 
 
 -	**Gcodes list:**     
