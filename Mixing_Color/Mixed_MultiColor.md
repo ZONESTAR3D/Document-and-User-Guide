@@ -42,7 +42,7 @@ This guide introduce how to print 6 to 16 colors 3D model with a 4-IN-1-OUT Mixi
 Add mixing ratios of VTOOLs setting into the "Start G-code". [:page_with_curl: How to set mixing ratio of Virtual extruder](#how-to-set-mixing-ratio-of-virtual-extruder)
 ![](./slicing2.jpg)
 ### :pushpin:Note
-You can download the setting from the bewlow link and unzip it, and then import the setting to your slicing software (PrusaSlicer).
+You can download the setting from the bewlow link and unzip it, and then import the setting to your PrusaSlicer.
 - [:arrow_down: Download config file](./config_WCMY.zip)    
 - [:clapper: Video tutorial](https://user-images.githubusercontent.com/29502731/232972117-387a9e15-f3c7-417b-aff6-d876e119b70d.mp4)
 ### Step 3: Assign an extruder to the components
