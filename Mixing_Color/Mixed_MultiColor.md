@@ -45,7 +45,7 @@ Add mixing ratios of VTOOLs setting into the "Start G-code". [:page_with_curl: H
 You can download the setting from the bewlow link and unzip it, and then import the setting to your PrusaSlicer.
 - [:arrow_down: Download config file](./config_WCMY.zip)    
 - [:clapper: Video tutorial](https://user-images.githubusercontent.com/29502731/232972117-387a9e15-f3c7-417b-aff6-d876e119b70d.mp4)
-### Step 3: Assign an extruder to the components
+### Step 3: Assign an extruder to the components of 3d model
 ![](./slicing3.jpg)
 #### Step 4: Slicing and save gcode to SD card
 #### Step 5: Print the file from SD card
