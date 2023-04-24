@@ -105,7 +105,7 @@ Here is a set of reference mixing ratio settings to mix Cyan, Magenta, and Yello
 ![](./extrudercolor.jpg) 
 
 -	**Gcodes list:**     
-You can copy the below to the "Start G-code" in slicing software to set the virtual extruders.
+You can copy the below to the "Start G-code" in slicing software to set the mixing ratios of the virtual extruders.
 >
 		;White
 		M163 S0 P100
