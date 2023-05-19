@@ -51,7 +51,7 @@ The following figure describes the distance between the position of the original
 
 -----
 ## How to set the probe offset 
-If you have upgraded a print head or a new bed leveling sensor etc., the postion of bed leveling sensor probe may be changed. In this case, you can modify "Probe Offset" settings on LCD screen, otherwise the printer may not do "bed auto leveling" correctly. 
+If you have upgraded a print head or a new bed leveling sensor etc., the postion of bed leveling sensor probe may be changed. In this case, you need to modify "Probe Offset" settings, otherwise the printer may not do "bed auto leveling" correctly. 
 - **Probe Offset X:** The offset between the probe and the nozzle on the X-axis. If the probe is closer to the X min ENDSTOP than nozzle, the value is negative, otherwise it is positive.
 - **Probe Offset Y:** The offset between the probe and the nozzle on the Y-axis. If the probe is closer to the Y min ENDSTOP than nozzle, the value is negative, otherwise it is positive.    
 - **Probe Offset Z:** The offset between the probe sensing position and the Z original position. **NOTE**: The printer can "catch Probe Z offset" when doing bed leveling, so it is not recommended to adjust the Probe Z offset directly.
