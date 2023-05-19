@@ -41,7 +41,7 @@ You can use M206 command to set the home offset, the syntax is as follows:
     M206 Xxx.x Yyy.y Zzz.z  ; set X/Y/Z offset, change xx.x yy.y zz.z to the value you need to set
     M500                    ; store to the NVRAM of control board
 
-You can also [:arrow_down:download this gcode file](./offset/M206.zip) (it is zipped, unzip it after downloaded), open the gcode file by "text editor" software and change the offset value, and then save it to SD card, and print this file on your 3d printer.
+You can also [:arrow_down:download this gcode file](./offset/M206.zip) (unzip it after downloaded), open the gcode file by "text editor" software and change the offset value, and then save it to SD card, and print this file on your 3d printer.
 
 ### Example
 The following figure describes the distance between the position of the original print head nozzle (blue) and the position of the new Direct Drive Extruder nozzle after upgrading the Direct Drive Extruder on the Z9V5 machine. So, you should set:
@@ -67,4 +67,4 @@ You can use M851 command to set the home offset, the syntax is as follows:
     M851 Xxx.x Yyy.y Zzz.z  ; set X/Y/Z offset, change xx.x yy.y zz.z to the value you need to set
     M500                    ; store to the NVRAM of control board
 
-You can also [:arrow_down:download this gcode file](./offset/M851.zip) (it is zipped, unzip it after downloaded), open the gcode file by "text editor" software and change the offset value, and then save it to SD card, and print this file on your 3d printer.
+You can also [:arrow_down:download this gcode file](./offset/M851.zip) (unzip it after downloaded), open the gcode file by "text editor" software and change the offset value, and then save it to SD card, and print this file on your 3d printer.
