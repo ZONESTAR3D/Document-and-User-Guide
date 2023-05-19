@@ -33,7 +33,7 @@ If you have upgraded the structure of the machine, a print head or changed the E
 - **Home Offset Y:** The offset between the new nozzle position and the original nozzle position on the Y-axis. If the new nozzle is closer to the Y min ENDSTOP, the value is negative, otherwise it is positive.    
 - **Home Offset Z:** The offset between the new nozzle position and the original nozzle position on the Y-axis. If the new nozzle is lower than orignal, the offset value should be set to smaller. **NOTE**: Since usually the Z ENDSTOP or the device to trigger the Z ENDSTOP and the hot bed can be moved up and down, it is not recommended to adjust the "Home Offset Z" setting unless necessary.
 ### Set "Home Offset" on LCD screen
-You can set the "home offset" on the LCD screen if there is a menu to set them.
+You can set the "home offset" on the LCD screen if there is a menu to set them.     
 ![](home_offset_menu.jpg)
 ### Set "Home Offset" by run a gcode command
 You can use M206 command to set the home offset, the syntax is as follows: 
@@ -56,7 +56,7 @@ If you have upgraded a print head or a new bed leveling sensor etc., the postion
 - **Probe Offset Y:** The offset between the probe and the nozzle on the Y-axis. If the probe is closer to the Y min ENDSTOP than nozzle, the value is negative, otherwise it is positive.    
 - **Probe Offset Z:** The offset between the probe sensing position and the Z original position. **NOTE**: The printer can "catch Probe Z offset" when doing bed leveling, so it is not recommended to adjust the Probe Z offset directly.
 ### Example
-The following figure describes the "Probe Offset" setting of the original print head of Z9V5Pro/Z8PM4 with PL-08N leveling sensor and a Direct Drive Extruder with 3D touch bed leveling sensor. If you changed the print head, you need to change the "Probe Offset" too.
+The following figure describes the "Probe Offset" setting of the original print head of Z9V5Pro/Z8PM4 with PL-08N leveling sensor and a Direct Drive Extruder with 3D touch bed leveling sensor. If you changed the print head, you need to change the "Probe Offset" too.     
 ![](probeoffset.jpg)
 ### Set "Probe Offset" on LCD screen
 You can set the "home offset" on the LCD screen if there is a menu to set them.
