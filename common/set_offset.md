@@ -33,10 +33,10 @@ If you have upgraded the structure of the machine, a print head or changed the E
 - **Home Offset Y:** The offset between the new nozzle position and the original nozzle position on the Y-axis. If the new nozzle is closer to the Y min ENDSTOP, the value is negative, otherwise it is positive.    
 - **Home Offset Z:** The offset between the new nozzle position and the original nozzle position on the Y-axis. If the new nozzle is lower than orignal, the offset value should be set to smaller. **NOTE**: Since usually the Z ENDSTOP or the device to trigger the Z ENDSTOP and the hot bed can be moved up and down, it is not recommended to adjust the "Home Offset Z" setting unless necessary.
 ### Set "Home Offset" on LCD screen
-You can set the "home offset" on the LCD screen if there is a menu to set them.     
+You can set the "home offset" on the LCD screen if there is a menu to set them on your LCD screen.     
 ![](./offset/home_offset_menu.jpg)
 ### Set "Home Offset" by run a gcode command
-You can use M206 command to set the home offset, the syntax is as follows: 
+You can send a M206 command to the printer to set the home offset too, the syntax is as follows: 
 >
     M206 Xxx.x Yyy.y Zzz.z  ; set X/Y/Z offset, change xx.x yy.y zz.z to the value you need to set
     M500                    ; store to the NVRAM of control board
@@ -59,10 +59,10 @@ If you have upgraded a print head or a new bed leveling sensor etc., the postion
 The following figure describes the "Probe Offset" setting of the original print head of Z9V5Pro/Z8PM4 with PL-08N leveling sensor and a Direct Drive Extruder with 3D touch bed leveling sensor. If you changed the print head, you need to change the "Probe Offset" too.     
 ![](./offset/probeoffset.jpg)
 ### Set "Probe Offset" on LCD screen
-You can set the "home offset" on the LCD screen if there is a menu to set them.
+You can set the "home offset" on the LCD screen if there is a menu to set them on your LCD screen.
 ![](./offset/probe_offset_menu.jpg)
 ### Set "Probe Offset" by run a gcode command
-You can use M851 command to set the home offset, the syntax is as follows: 
+You can send a M851 command to the printer to set the home offset, the syntax is as follows: 
 >
     M851 Xxx.x Yyy.y Zzz.z  ; set X/Y/Z offset, change xx.x yy.y zz.z to the value you need to set
     M500                    ; store to the NVRAM of control board
