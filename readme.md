@@ -76,9 +76,10 @@ We provide some upgradeable features for our 3D printers. If you are interested 
 - :blue_book: [**Direct Drive Extruder**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Direct_Drive_Extrruder) - The direct drive extruder can print flexible filament. Moreover, the printing quality is better, and the possibility of printing failure and defects is lower.
 - :blue_book: [**Laser Engraving**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser_Engraving) - Let your 3D printer have simple laser engraving function.
 - :blue_book: [**Motor Drive Modules**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Motor_Driver) - Some motor drive modules can provide higher drive current and lower operating noise.
+- :blue_book: [**TFT LCD Screen**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD) - Improved human-machine interface.
 - :blue_book: [**Auto Repeat Printing Module**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Auto_Repeat_Printing) - Turn your 3D printer into an automatic continuous production machine (only applicable to z9v5).
-- :blue_book: [**TFT LCD Screen**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD) - Provide better human-machine interface.
-
+- :blue_book: [**Build Volume Upgrade Kit for Z9V5**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Z9V5_500x500) - Upgrade the build volume to 500x500x400mm.
+- :blue_book: [**Linear Rail Upgrade Kit for Z9V5**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Z9V5_LinearRail) - Upgrade wheels to linear rail.
 -----
 ## 3D Printer Control Boards  
 3D printer control board user manual and documents: https://github.com/ZONESTAR3D/Control-Board  
