@@ -63,8 +63,8 @@ For details, please refer to **[https://github.com/ZONESTAR3D/Document-and-User-
 ## Firmware
 **Firmware bin file** is the exact memory that is written to the embedded flash.    
 **Firmware source code** is the core part of the firmware. The entire firmware can be thought of as different sub modules. It is divided into many sub files. These files are called source files. And, the entire program files are called source file or source code. Now our firmware source code is base on [**marlin**](https://www.marlinfw.org).  
-- :blue_book: **ZONESTAR 3D Printer Firmware Bin files: https://github.com/ZONESTAR3D/Firmware**
-- :blue_book: **ZONESTAR 3D Printer Firmware Source code: https://github.com/ZONESTAR3D/source-code-for-3d-printer**
+- :blue_book: **Firmware Bin files: https://github.com/ZONESTAR3D/Firmware**
+- :blue_book: **Firmware Source code: https://github.com/ZONESTAR3D/source-code-for-3d-printer**
 
 -----
 ## Upgrade kits and parts
