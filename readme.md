@@ -48,7 +48,14 @@
     - :blue_book:**Z9V5-MK3 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3**
     - :blue_book:**Z9V5-MK4 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4**  
     - :blue_book:**Z9V5-MK5 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5**  
- 
+
+-----
+## Troubleshootings
+- :blue_book: **Troubleshooting for Z8P Multi Color 3D Printer:** https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ
+- :blue_book: **Troubleshooting for Z9V5 Multi Color 3D Printer:** https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_FAQ
+- :blue_book: **44 Common 3D Print Problems (@3dsourced):**https://www.3dsourced.com/rigid-ink/ultimate-3d-printing-troubleshooting-guide
+- :blue_book: **All problems & solutions (@all3DP):**https://all3dp.com/1/common-3d-printing-problems-troubleshooting-3d-printer-issues
+
 -----
 ## Slicing guide  
 Slicing is a piece of software that everyone uses when creating objects and products on a 3D printer. The software gives the printer a path to follow. The slicing software takes your image and converts it into G codes that your 3D printer can understand. These G codes are a type of instruction on how the printer needs to print your design. For more information, please refer to  :page_with_curl: [**Reference 1**](https://loveandrobots.com/what-is-slicing-in-3d-printing/)  :page_with_curl: [**Reference 2**](https://en.wikipedia.org/wiki/Slicer_(3D_printing))  
@@ -80,6 +87,7 @@ We provide some upgradeable features for our 3D printers. If you are interested 
 - :blue_book: [**Auto Repeat Printing Module of Z9V5**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Auto_Repeat_Printing) - Turn your 3D printer into an automatic continuous production machine (only applicable to z9v5).
 - :blue_book: [**Build Volume Upgrade Kit of Z9V5**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Z9V5_500x500) - Upgrade the build volume to 500x500x400mm.
 - :blue_book: [**Linear Rail Upgrade Kit of Z9V5**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Z9V5_LinearRail) - Upgrade wheels to linear rail.
+
 -----
 ## 3D Printer Control Boards  
 3D printer control board user manual and documents: https://github.com/ZONESTAR3D/Control-Board  
