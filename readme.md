@@ -51,10 +51,10 @@
 
 -----
 ## Troubleshootings
-- :book: **For Z8P Multi Color 3D Printer:** https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ
-- :book: **For Z9V5 Multi Color 3D Printer:** https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_FAQ
-- :book: **Common 3D Print Problems (@3dsourced):** https://www.3dsourced.com/rigid-ink/ultimate-3d-printing-troubleshooting-guide
-- :book: **All Problems & Solutions (@all3DP):** https://all3dp.com/1/common-3d-printing-problems-troubleshooting-3d-printer-issues
+- :open_file_folder: **For Z8P Multi Color 3D Printer: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ**
+- :open_file_folder: **For Z9V5 Multi Color 3D Printer: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_FAQ**
+- :link: **Common 3D Print Problems (@3dsourced): https://www.3dsourced.com/rigid-ink/ultimate-3d-printing-troubleshooting-guide**
+- :link: **All Problems & Solutions (@all3DP): https://all3dp.com/1/common-3d-printing-problems-troubleshooting-3d-printer-issues**
 
 -----
 ## Slicing guide  
