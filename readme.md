@@ -51,8 +51,8 @@
 
 -----
 ## Troubleshootings
-- :open_file_folder: **For Z8P Multi Color 3D Printer: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ**
-- :open_file_folder: **For Z9V5 Multi Color 3D Printer: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_FAQ**
+- :blue_book: **For Z8P Multi Color 3D Printer: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ**
+- :blue_book: **For Z9V5 Multi Color 3D Printer: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_FAQ**
 
 -----
 ## Slicing guide  
