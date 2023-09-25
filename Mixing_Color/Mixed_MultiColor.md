@@ -1,4 +1,4 @@
-### Choose Language (Translated by google)
+<!-- ### Choose Language (Translated by google)
 [![](../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Mixed_MultiColor.md?_x_tr_sl=en&_x_tr_tl=es)
 [![](../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Mixed_MultiColor.md?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Mixed_MultiColor.md?_x_tr_sl=en&_x_tr_tl=fr)
@@ -23,12 +23,19 @@
 [![](../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Mixed_MultiColor.md?_x_tr_sl=en&_x_tr_tl=el)
 [![](../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Mixed_MultiColor.md?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Mixed_MultiColor.md?_x_tr_sl=en&_x_tr_tl=ru)
-[![](../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Mixed_MultiColor.md?_x_tr_sl=en&_x_tr_tl=zh-CN)
+[![](../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Mixed_MultiColor.md?_x_tr_sl=en&_x_tr_tl=zh-CN) -->
 
------
 # Mixed multi-color operation manual
 This guide introduce how to print 6 to 16 colors 3D model with a 4-IN-1-OUT Mixing Color Hotend.
 
+-----
+### :globe_with_meridians: Translate
+We provide online documentation for files precisely because it is easy to translate into the language you are familiar with. Below, we list some common browser translation add-ons for your reference.
+- [**Windows Edge Translate Add-on**](https://microsoftedge.microsoft.com/addons/detail/edge-translate/bfdogplmndidlpjfhoijckpakkdjkkil?hl=en-US)    
+- [**Firefox Translations Add-on**](https://support.mozilla.org/en-US/kb/firefox-translations-add-on?redirectslug=firefox-translations&redirectlocale=en-US)
+- [**Google Translate Chrome Extension**](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
+
+-----
 ### :warning: NOTE
 - **This guide is based on PrusaSlicer slicing software. How to download, install and use PrusaSlicer, please refer to [:point_right:here](https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer).**     
 - **To know more about mix color feature, please refer to [:point_right:here](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color).**

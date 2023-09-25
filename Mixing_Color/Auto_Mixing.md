@@ -1,4 +1,4 @@
-### Choose Language (Translated by google)
+<!-- ### Choose Language (Translated by google)
 [![](../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=es)
 [![](../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=fr)
@@ -23,10 +23,15 @@
 [![](../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=el)
 [![](../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=ru)
-[![](../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=zh-CN)
+[![](../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=zh-CN) -->
 
 -----
 # Auto mixing color operation manual
+
+-----
+# Color Mixing Feature User Guide
+### :warning: This guide is made for 4 extruders with 4-IN-1-OUT mix color hot end.
+The color mixing feature is a function to mix multi different color filaments and extruded from one nozzle to get a new color filament. By adjusting the extrude ratio of each extruder, it can get different color filament. For example, mix Magenta and Yellow filament as a ratio 5:1 to get Red filament, and mix Magenta and Yellow filament as a ratio 1:1 to get Orange filament.  
 
 -----
 ## Manual change mixing rate on printing 
