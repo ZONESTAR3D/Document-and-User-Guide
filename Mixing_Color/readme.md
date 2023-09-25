@@ -37,7 +37,8 @@ We provide online documentation for files precisely because it is easy to transl
 - [**Firefox Translations Add-on**](https://support.mozilla.org/en-US/kb/firefox-translations-add-on?redirectslug=firefox-translations&redirectlocale=en-US)
 - [**Google Translate Chrome Extension**](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 
-### ZONESTAR mix color 3d printer can achieve the following functions:
+-----
+## ZONESTAR mix color 3d printer can achieve the following functions:
 1. **Manual color mixing feature:** Manually adjust the extrusion ratio of each extruder ([mixing ratio](#mixing-ratio)) by the LCD control panel to change the printing color.
 2. **Gradient color mixing feature:** The gradient mix function is a feature of changing the [mixing ratio](#mixing-ratio) according to printing height automatically. It can be activated from the LCD control panel or by adding gcode to "Start G-code" when slicing.
 3. **Random color mixing feature:** The random mix function is a feature of changing the [mixing ratio](#mixing-ratio) according to printing height randomly. It can be activated from the LCD control panel or by adding gcode to "Start G-code" when slicing.
