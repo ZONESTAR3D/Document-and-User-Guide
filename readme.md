@@ -42,17 +42,17 @@
   - :open_file_folder: **Z9M3 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9M3**
   - :open_file_folder: **Z9M4 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9M4**
   - :open_file_folder: **Z9V5 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5**     
-   **:warning: [What's different between MK1/MK2/MK3/MK4/MK5?](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5#whats-different-on-z9v5-mk1mk2mk3mk4mk5)**
     - :blue_book:**Z9V5-MK1 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK1**
     - :blue_book:**Z9V5-MK2 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK2**
     - :blue_book:**Z9V5-MK3 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3**
     - :blue_book:**Z9V5-MK4 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4**  
     - :blue_book:**Z9V5-MK5 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5**  
+    - :blue_book:**Z9V5-MK6 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6**         
 
 -----
 ## Troubleshootings
 - :blue_book: **For Z8P Multi Color 3D Printer: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ**
-- :blue_book: **For Z9V5 Multi Color 3D Printer: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_FAQ**
+- :blue_book: **For Z9V5 Multi Color 3D Printer: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5_FAQ**
 
 -----
 ## Slicing guide  
@@ -62,7 +62,7 @@ For details, please refer to **[https://github.com/ZONESTAR3D/Slicing-Guide](htt
 -----
 ## Mixing color guide
 The color mixing feature is a function to mix multi different color filaments and extruded from one nozzle to get a new color filament. By adjusting the extrude ratio of each extruder, it can get different color filament. For example, mix Magenta and Yellow filament as a ratio 5:1 to get Red filament, and mix Magenta and Yellow filament as a ratio 1:1 to get Orange filament.    
-For details, please refer to **[https://github.com/ZONESTAR3D/Document-and-User-Guide/Mixing_Color](https://github.com/ZONESTAR3D/Document-and-User-Guide/Mixing_Color)**.
+For details, please refer to **[https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color)**.
 
 -----
 ## Firmware
