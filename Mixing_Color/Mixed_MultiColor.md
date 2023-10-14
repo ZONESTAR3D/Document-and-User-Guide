@@ -105,7 +105,7 @@ Here is a set of reference mixing ratio settings to mix Cyan, Magenta, and Yello
 |   12       |  75/0/25/5 |      skin          |      R255 G210 B255        |
 |   13       | 0/25/50/25 |      Magenta-Brown |      R106 G83  B83         |
 |   14       | 0/25/25/50 |      Yellow-Brown  |      R106 G106 B83         |
-|   14       | 0/33/33/34 |      Brown         |      R83  G83  B83         |
+|   15       | 0/33/33/34 |      Brown         |      R83  G83  B83         |
 
 **\*Extruder color:** The RGB value is used to set the extruder color in the slicing software, and it is only used to distinguish different parts of the 3D model, it isn't the actual printed color.
 
