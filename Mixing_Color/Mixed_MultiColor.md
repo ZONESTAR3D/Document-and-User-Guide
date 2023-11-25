@@ -71,12 +71,12 @@ You can download the setting from the bewlow link and unzip it, and then import 
 - **[:arrow_down:Download 3mf & gcode file](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/M4_10c_noahs.zip)**
 ### 16 color tower
 ![](./tower.jpg)     
+- **[:clapper:Slicing video tutorial](https://user-images.githubusercontent.com/29502731/233582725-251e2a25-62b9-4c75-b5f1-ad7929ffa192.mp4)**
+- **[:arrow_down:Download stl file](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/colortower_stl.zip)**
+- **[:arrow_down:Download 3mf & gcode file](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/M4_16c_colortower.zip)**    
 #### :warning:Note
 1. When slicing, the wipe tower (prime tower) is disabled, so the color at the boundary may be inaccurate.
 2. To print this color tower, you can check the actual print color after setting the mixing ratio.
-- **[:clapper:Slicing video tutorial](https://user-images.githubusercontent.com/29502731/233582725-251e2a25-62b9-4c75-b5f1-ad7929ffa192.mp4)**
-- **[:arrow_down:Download stl file](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/colortower_stl.zip)**
-- **[:arrow_down:Download 3mf & gcode file](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/M4_16c_colortower.zip)**
 
 -----
 ### Appendix: Color mixing ratio reference settings 
