@@ -101,7 +101,7 @@ Here is a set of reference mixing ratio settings to mix Cyan, Magenta, and Yello
 |    8       |  0/0/50/50 |      Orange        |      R255 G159 B0          |
 |    9       |  0/17/0/83 |      Spring-Green  |      R191 G255 B0          |
 |   10       |  0/50/0/50 |      Green         |      R0   G255 B0          |
-|   11       |  0/50/0/50 |      Turquoise     |      R0   G255 B191        |
+|   11       |  0/84/0/16 |      Turquoise     |      R0   G255 B191        |
 |   12       |  75/0/25/5 |      skin          |      R255 G210 B255        |
 |   13       | 0/25/50/25 |      Magenta-Brown |      R106 G83  B83         |
 |   14       | 0/25/25/50 |      Yellow-Brown  |      R106 G106 B83         |
