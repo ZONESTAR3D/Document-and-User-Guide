@@ -94,10 +94,10 @@ Here is a set of reference mixing ratio settings to mix Cyan, Magenta, and Yello
 |    1       |  0/100/0/0 |      Cyan          |      R0   G255 B255        |
 |    2       |  0/0/100/0 |      Magenta       |      R255 G0   B255        |
 |    3       |  0/0/0/100 |      Yellow        |      R255 G255 B0          |
-|    4       |  0/84/16/0 |      Ocean-Blue    |      R0   G191 B255         |
+|    4       |  0/84/16/0 |      Ocean-Blue    |      R0   G191 B255        |
 |    5       |  0/50/50/0 |      Blue          |      R0   G0   B255        |
 |    6       |  0/17/83/0 |      Violet        |      R169 G0   B255        |
-|    7       |  0/0/83/17 |      red           |      R255 G0   B0          |
+|    7       |  0/0/83/17 |      Red           |      R255 G0   B0          |
 |    8       |  0/0/50/50 |      Orange        |      R255 G159 B0          |
 |    9       |  0/17/0/83 |      Spring-Green  |      R191 G255 B0          |
 |   10       |  0/50/0/50 |      Green         |      R0   G255 B0          |
@@ -109,7 +109,11 @@ Here is a set of reference mixing ratio settings to mix Cyan, Magenta, and Yello
 
 **\*Extruder color:** The RGB value is used to set the extruder color in the slicing software, and it is only used to distinguish different parts of the 3D model, it isn't the actual printed color.
 
-![](./extrudercolor.jpg) 
+![](./extrudercolor.jpg)    
+
+- **The following figure shows the mixed printing results according to the above ratio.**   
+
+![](./16ColorTower.jpg)    
 
 -	**Gcodes list:**     
 You can copy the below to the "Start G-code" in slicing software to set the mixing ratios of the virtual extruders.
