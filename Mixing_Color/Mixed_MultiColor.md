@@ -94,7 +94,7 @@ Here is a set of reference mixing ratio settings to mix Cyan, Magenta, and Yello
 |    1       |  0/100/0/0 |      Cyan          |      R0   G255 B255        |
 |    2       |  0/0/100/0 |      Magenta       |      R255 G0   B255        |
 |    3       |  0/0/0/100 |      Yellow        |      R255 G255 B0          |
-|    4       |  0/0/0/100 |      Ocean-Blue    |      R255 G255 B0          |
+|    4       |  0/84/16/0 |      Ocean-Blue    |      R0   G191 B255         |
 |    5       |  0/50/50/0 |      Blue          |      R0   G0   B255        |
 |    6       |  0/17/83/0 |      Violet        |      R169 G0   B255        |
 |    7       |  0/0/83/17 |      red           |      R255 G0   B0          |

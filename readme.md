@@ -53,6 +53,8 @@
 ## Troubleshootings
 - :blue_book: **For Z8P Multi Color 3D Printer: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ**
 - :blue_book: **For Z9V5 Multi Color 3D Printer: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_FAQ**
+<!-- - :blue_book: **For M4V6 Hot end: ** -->
+- :blue_book: **For E4 Hotend: https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4%204-IN-1-OUT%20Non-Mixing%20Color%20Hotend/FAQ**
 
 -----
 ## Slicing guide  
