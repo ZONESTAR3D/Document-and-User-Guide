@@ -36,25 +36,25 @@
   - :open_file_folder: **Z8S User guide: https://github.com/ZONESTAR3D/Z8S**
   - :open_file_folder: **Z8T User guide: https://github.com/ZONESTAR3D/Z8T**
   - :open_file_folder: **Z8P User guide: https://github.com/ZONESTAR3D/Z8P**
-    - :blue_book:**Z8P User guide: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P**
-    - :blue_book:**Z8P-MK2 User guide: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2**
+    - :blue_book: **Z8P User guide: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P**
+    - :blue_book: **Z8P-MK2 User guide: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P-MK2**
 ### :file_folder: [Z9 series](https://github.com/ZONESTAR3D/Z9)
   - :open_file_folder: **Z9M3 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9M3**
   - :open_file_folder: **Z9M4 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9M4**
   - :open_file_folder: **Z9V5 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5**     
-    - :blue_book:**Z9V5-MK1 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK1**
-    - :blue_book:**Z9V5-MK2 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK2**
-    - :blue_book:**Z9V5-MK3 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3**
-    - :blue_book:**Z9V5-MK4 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4**  
-    - :blue_book:**Z9V5-MK5 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5**  
-    - :blue_book:**Z9V5-MK6 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6**         
+    - :blue_book: **Z9V5-MK1 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK1**
+    - :blue_book: **Z9V5-MK2 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK2**
+    - :blue_book: **Z9V5-MK3 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3**
+    - :blue_book: **Z9V5-MK4 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4**  
+    - :blue_book: **Z9V5-MK5 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5**  
+    - :blue_book: **Z9V5-MK6 User guide: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6**         
 
 -----
 ## Troubleshootings
 - :blue_book: **For Z8P Multi Color 3D Printer: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ**
 - :blue_book: **For Z9V5 Multi Color 3D Printer: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_FAQ**
 <!-- - :blue_book: **For M4V6 Hot end: ** -->
-- :blue_book: **For E4 Hotend: https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4%204-IN-1-OUT%20Non-Mixing%20Color%20Hotend/FAQ**
+- :blue_book: **For E4 Hotend: https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4/FAQ**
 
 -----
 ## Slicing guide  
