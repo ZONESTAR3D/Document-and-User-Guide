@@ -51,10 +51,10 @@
 
 -----
 ## Troubleshootings
-- :blue_book: **For Z8P Series 3D Printer: https://github.com/ZONESTAR3D/Z8P/tree/main/Z8P_FAQ**
-- :blue_book: **For Z9V5 Series 3D Printer: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_FAQ**
-- :blue_book: **For M4V6 Hotend: https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4/M4_V6/M4V6_FAQ**
-- :blue_book: **For E4 Hotend: https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4/FAQ**
+- :blue_book: **For Z8P Series 3D Printer: https://bit.ly/Z8PTroubleshooting**
+- :blue_book: **For Z9V5 Series 3D Printer: https://bit.ly/Z9V5FAQ**
+- :blue_book: **For M4V6 Hotend: https://bit.ly/M4V6FAQ**
+- :blue_book: **For E4 Hotend: https://bit.ly/E4HotendFAQ**
 
 -----
 ## Slicing guide  
