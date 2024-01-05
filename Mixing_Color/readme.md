@@ -1,4 +1,4 @@
-# Product Introduction of Color Mixing Extruder
+# Introduction of Color Mixing Extruder
 ### Working principle of mixed color extruder
 [![](./mix_principle.jpg)](https://bit.ly/MixPrinciple)
 
