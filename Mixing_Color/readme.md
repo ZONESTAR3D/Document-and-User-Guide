@@ -1,7 +1,6 @@
-# Color Mixing Feature User Guide
+# Product Introduction of Color Mixing Extruder
 ### Working principle of mixed color extruder
 [![](./mix_principle.jpg)](https://bit.ly/MixPrinciple)
-
 
 -----
 ### :warning: This guide is made for 4 extruders with 4-IN-1-OUT mix color hot end.
@@ -22,7 +21,7 @@ We provide online documentation for files precisely because it is easy to transl
 4. **Mixed multi-color feature** To use a [**virtual extruder**](#virtual-extruder--virtual-tool--vtool), the mixing color 3d printer can print more colors than the actual extruders. For example, printing 8 color 3d models by using a 4 extruders. Now ZONESTAR mix color 3d printer can set up to 16 virtual extruders.
 
 -----
-## Term explanation
+## Terminology
 Some proper noun are used in mixing color printing, this section made a detail description to these names, to understand the following documents better.
 #### Bowden extruder
 A Bowden extruder is a type of extruder that pushes filament through a long and flexible PTFE tube (Bowden tube) to the hot end. ZONESTAR multi color 3d printers are used Bowden extruder. [:page_with_curl:wiki page](https://en.wikipedia.org/wiki/3D_printer_extruder)        
