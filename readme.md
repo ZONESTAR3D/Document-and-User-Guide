@@ -55,6 +55,7 @@
 - :blue_book: **For Z9V5 Series 3D Printer: https://bit.ly/Z9V5FAQ**
 - :blue_book: **For M4V6 Hotend: https://bit.ly/M4V6FAQ**
 - :blue_book: **For E4 Hotend: https://bit.ly/E4HotendFAQ**
+- :blue_book: **For FDM 3D Printer Common Problem: https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/main/FAQ**
 
 -----
 ## Slicing guide  
