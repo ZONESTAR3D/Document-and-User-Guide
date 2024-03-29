@@ -1,6 +1,6 @@
 # Introduction of Color Mixing Extruder
 ### Working principle of mixed color extruder
-[![](./mix_principle.jpg)](https://bit.ly/MixPrinciple)
+#### [](https://github.com/ZONESTAR3D/Document-and-User-Guide/assets/29502731/2b9f4d75-b6fd-486f-aaa7-7a1163383316)
 
 -----
 ### :warning: This guide is made for 4 extruders with 4-IN-1-OUT mix color hot end.
