@@ -1,6 +1,5 @@
 # Introduction of Color Mixing Extruder
 ### Working principle of mixed color extruder
-##### 
 [](https://github.com/ZONESTAR3D/Document-and-User-Guide/assets/29502731/2b9f4d75-b6fd-486f-aaa7-7a1163383316)
 
 -----
