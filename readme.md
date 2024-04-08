@@ -77,16 +77,25 @@ For details, please refer to **[https://github.com/ZONESTAR3D/Document-and-User-
 -----
 ## 3D Printer Parts and Upgrade kits
 The following is the link to the manual for 3D printer parts and upgrade kits, please click on the link below to obtain installation, usage, and others if need.
-- :blue_book: [**WiFi Module**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/WiFi) - wireless control feature 
+- :blue_book: [**WiFi Module**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/WiFi) - For wireless control feature 
 - :blue_book: [**Filament run out sensor**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/FROD) - Detect that filaments are exhausted and automatically pause printing.
 - :blue_book: [**Hotends**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND) - Various types of hot ends meet different kinds of filaments and printing requirements.       
-:blue_book: **[E4 Hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4)-[M4 Hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4)([M4V6](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4/M4_V6)/[M4V5](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4/M4_V5)/[M4V3&M4V4](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4/M4_V3_V4))-[M3 Hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M3)-[M2P1 Hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M2P1)-[R3 Hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/R3)-[M2 Hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M2)-[R2 Hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/R2)-[One Color](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/Single_color)**     
-- :blue_book: [**Bed Leveling Sensor**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Bed_Leveling_Sensor) - Automatica Bed Leveling feature and parts.
+  - [E4 (4-IN-1-OUT Non-Mix Color) Hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4)
+  - [M4 (4-IN-1-OUT Mix Color) Hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4)( [M4V6](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4/M4_V6) / [~~M4V5~~](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4/M4_V5) / [~~M4V3&M4V4~~](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4/M4_V3_V4))
+  - [M3 (3-IN-1-OUT Mix Color) Hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M3)
+  - [M2P1 (3-IN-2-OUT) Hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M2P1)
+  - [R3 (3-IN-3-OUT) Hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/R3)
+  - [M2 (2-IN-1-OUT Mix Color) Hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M2)
+  - [R2 (2-IN-2-OUT) Hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/R2)
+  - [One Color Hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/Single_color)    
+- :blue_book: [**Bed Leveling Sensor**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Bed_Leveling_Sensor) - Automatica Bed Leveling feature and parts. 
+  - [PL-08N](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Bed_Leveling_Sensor/PL-08N)
+  - [3DTouch/BLTouch](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Bed_Leveling_Sensor/3DTouch)
 - :blue_book: [**Direct Drive Extruder**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Direct_Drive_Extruder) - The direct drive extruder can print flexible filament. Moreover, the printing quality is better, and the possibility of printing failure and defects is lower.
 - :blue_book: [**Dual Gear Extruder**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Dual_Gear_Extruder) - More powerful extrusion, effectively reducing the probability of printing failure.
 - :blue_book: [**Laser Engraving**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser_Engraving) - Let your 3D printer have simple laser engraving function.
 - :blue_book: [**Motor Drive Modules**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Motor_Driver) - Some motor drive modules can provide higher drive current and lower operating noise.
-- :blue_book: [**TFT LCD Screen**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD) - Improved human-machine interface.
+- :blue_book: [**TFT LCD Screen**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD) - Human Machine Interface.
 - :blue_book: [**Auto Repeat Printing Module of Z9V5**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Auto_Repeat_Printing) - Turn your 3D printer into an automatic continuous production machine (only applicable to z9v5).
 - :blue_book: [**Build Volume Upgrade Kit of Z9V5**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Z9V5_500x500) - Upgrade the build volume to 500x500x400mm.
 - :blue_book: [**Linear Rail Upgrade Kit of Z9V5**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Z9V5_LinearRail) - Upgrade wheels to linear rail.
