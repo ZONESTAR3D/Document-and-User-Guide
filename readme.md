@@ -75,11 +75,12 @@ For details, please refer to **[https://github.com/ZONESTAR3D/Document-and-User-
 - :blue_book: **Firmware Source code: https://github.com/ZONESTAR3D/source-code-for-3d-printer**
 
 -----
-## Upgrade kits and parts
-We provide some upgradeable features for our 3D printers. If you are interested in these upgradeable parts / kits, please refer to the following links. **Primary link**: https://github.com/ZONESTAR3D/Upgrade-kit-guide
+## 3D Printer Parts and Upgrade kits
+The following is the link to the manual for 3D printer parts and upgrade kits, please click on the link below to obtain installation, usage, and others if need.
 - :blue_book: [**WiFi Module**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/WiFi) - wireless control feature 
 - :blue_book: [**Filament run out sensor**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/FROD) - Detect that filaments are exhausted and automatically pause printing.
-- :blue_book: [**Hotend/Extruder**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND) - Various types of hot ends meet different kinds of filaments and printing requirements.
+- :blue_book: [**Hotends**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND) - Various types of hot ends meet different kinds of filaments and printing requirements.       
+:blue_book: **[E4 Hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4)-[M4 Hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4)([M4V6](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4/M4_V6)/[M4V5](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4/M4_V5)/[M4V3&M4V4](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4/M4_V3_V4))-[M3 Hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M3)-[M2P1 Hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M2P1)-[R3 Hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/R3)-[M2 Hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M2)-[R2 Hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/R2)-[One Color](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/Single_color)**     
 - :blue_book: [**Bed Leveling Sensor**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Bed_Leveling_Sensor) - Automatica Bed Leveling feature and parts.
 - :blue_book: [**Direct Drive Extruder**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Direct_Drive_Extruder) - The direct drive extruder can print flexible filament. Moreover, the printing quality is better, and the possibility of printing failure and defects is lower.
 - :blue_book: [**Dual Gear Extruder**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Dual_Gear_Extruder) - More powerful extrusion, effectively reducing the probability of printing failure.
