@@ -16,20 +16,27 @@
 <!-- [![](../lanpic/SA.png)](#ar) -->
 
 ----
+![](../lanpic/EN.png)
+
+----
 # <a id="en">Introduction of Color Mixing Extruder </a>
-### Working principle of mixed color extruder
-[][mix_color_principle]
-
-### :warning: This guide is made for 4 extruders with 4-IN-1-OUT mix color hot end.
-The color mixing feature is a function to mix multi different color filaments and extruded from one nozzle to get a new color filament. By adjusting the extrude ratio of each extruder, it can get different color filament. For example, mix Magenta and Yellow filament as a ratio 5:1 to get Red filament, and mix Magenta and Yellow filament as a ratio 1:1 to get Orange filament.    
-
-## ZONESTAR mix color 3d printer can achieve the following functions:
+ZONESTAR mix color 3d printer can achieve the following functions:
 1. **Manual color mixing feature:** Manually adjust the extrusion ratio of each extruder ([mixing ratio](#en_a3)) by the LCD control panel to change the printing color.
 2. **Gradient color mixing feature:** The gradient mix function is a feature of changing the [mixing ratio](#en_a3) according to printing height automatically. It can be activated from the LCD control panel or by adding gcode to "Start G-code" when slicing.
 3. **Random color mixing feature:** The random mix function is a feature of changing the [mixing ratio](#en_a3) according to printing height randomly. It can be activated from the LCD control panel or by adding gcode to "Start G-code" when slicing.
 4. **Mixed multi-color feature** To use a [**virtual extruder**](#en_a4), the mixing color 3d printer can print more colors than the actual extruders. For example, printing 8 color 3d models by using a 4 extruders. Now ZONESTAR mix color 3d printer can set up to 16 virtual extruders.
+#### :warning: This guide is made for 4 extruders with 4-IN-1-OUT mix color hot end.
+The color mixing feature is a function to mix multi different color filaments and extruded from one nozzle to get a new color filament. By adjusting the extrude ratio of each extruder, it can get different color filament. For example, mix Magenta and Yellow filament as a ratio 5:1 to get Red filament, and mix Magenta and Yellow filament as a ratio 1:1 to get Orange filament.    
 
-## <a id="en_a">Terminology </a>
+### :book: Content
+- [**Terminology and Working principle**](#en_a)
+- [**How to set mixing ratio of virtual extruder**](#en_b)
+- [**Auto mixing color operation manual**](#en_c)
+- [**Mixed multi color operation manual**](#en_d)
+
+### <a id="en_w">Working principle of mixed color extruder </a>
+[][mix_color_principle]
+### <a id="en_a">Terminology </a>
 Some proper noun are used in mixing color printing, this section made a detail description to these names, to understand the following documents better.
 #### <a id="en_a1">Bowden extruder </a>
 A Bowden extruder is a type of extruder that pushes filament through a long and flexible PTFE tube (Bowden tube) to the hot end. ZONESTAR multi color 3d printers are used Bowden extruder. [:page_with_curl:wiki page](https://en.wikipedia.org/wiki/3D_printer_extruder)        
@@ -86,20 +93,27 @@ For how to use a virtual extruder to print 3D models with more colors than the n
 ###### ![](./noahs.jpg) ![](./owl.jpg)  
 
 ----
+![](../lanpic/ES.png)
+
+----
 # <a id="es">Introducción de la extrusora de mezcla de colores</a>  [:arrow_heading_up:](#choose-language)
-### Principio de funcionamiento de la extrusora de colores mixtos
-[][mix_color_principle]
-
-### :warning: Esta guía está hecha para 4 extrusoras con extremo caliente de mezcla de colores 4 EN 1 SALIDA.
-La función de mezcla de colores es una función para mezclar filamentos de varios colores diferentes y extruirlos desde una boquilla para obtener un filamento de nuevo color. Al ajustar la relación de extrusión de cada extrusora, se pueden obtener filamentos de diferentes colores. Por ejemplo, mezcle el filamento magenta y amarillo en una proporción de 5:1 para obtener el filamento rojo, y mezcle el filamento magenta y amarillo en una proporción de 1:1 para obtener el filamento naranja.
-
-## La impresora 3D de color mixto ZONESTAR puede lograr las siguientes funciones:
 1. **Función de mezcla manual de colores:** Ajuste manualmente la proporción de extrusión de cada extrusor ([proporción de mezcla](#es_a3)) mediante el panel de control LCD para cambiar el color de impresión.
 2. **Función de mezcla de colores degradados:** La función de mezcla de degradados es una característica que permite cambiar automáticamente la [proporción de mezcla](#es_a3) según la altura de impresión. Se puede activar desde el panel de control LCD o agregando gcode a "Iniciar código G" al cortar.
 3. **Función de mezcla aleatoria de colores:** La función de mezcla aleatoria es una característica que permite cambiar la [proporción de mezcla](#es_a3) según la altura de impresión de forma aleatoria. Se puede activar desde el panel de control LCD o agregando gcode a "Iniciar código G" al cortar.
 4. **Función de mezcla de colores** Para utilizar una [**extrusora virtual**](#es_a4), la impresora 3D de mezcla de colores puede imprimir más colores que las extrusoras reales. Por ejemplo, imprimir modelos 3D de 8 colores utilizando 4 extrusoras. Ahora la impresora 3D de color mixto ZONESTAR puede configurar hasta 16 extrusoras virtuales.
+#### :warning: Esta guía está hecha para 4 extrusoras con extremo caliente de mezcla de colores 4 EN 1 SALIDA.
+La función de mezcla de colores es una función para mezclar filamentos de varios colores diferentes y extruirlos desde una boquilla para obtener un filamento de nuevo color. Al ajustar la relación de extrusión de cada extrusora, se pueden obtener filamentos de diferentes colores. Por ejemplo, mezcle el filamento magenta y amarillo en una proporción de 5:1 para obtener el filamento rojo, y mezcle el filamento magenta y amarillo en una proporción de 1:1 para obtener el filamento naranja.
 
-## <a id="es_a">Terminología </a>
+### :book: Contenido
+- [**Terminología y principio de funcionamiento**](#es_a)
+- [**Cómo configurar la proporción de mezcla del extrusor virtual**](#es_b)
+- [**Manual de operación de mezcla automática de colores**](#es_c)
+- [**Manual de operación multicolor mixto**](#es_d)
+
+### <a id="es_w">Principio de funcionamiento de la extrusora de colores mixtos</a>
+[][mix_color_principle]
+
+### <a id="es_a">Terminología </a>
 Algunos nombres propios se utilizan al mezclar la impresión en color; en esta sección se hace una descripción detallada de estos nombres para comprender mejor los siguientes documentos.
 #### <a id="es_a1">Extrusora Bowden </a>
 Una extrusora Bowden es un tipo de extrusora que empuja el filamento a través de un tubo de PTFE largo y flexible (tubo Bowden) hasta el extremo caliente. Las impresoras 3D multicolores ZONESTAR utilizan una extrusora Bowden. [:page_with_curl:página wiki](https://en.wikipedia.org/wiki/3D_printer_extruder)
@@ -155,20 +169,27 @@ Las funciones de mezcla de colores manual, mezcla de colores degradados y mezcla
 Para saber cómo utilizar un extrusor virtual para imprimir modelos 3D con más colores que el número de extrusores, consulte [:libro:**esta guía**][mixed_multi_color].
 ###### ![](./noahs.jpg) ![](./owl.jpg)
 
+----
+![](../lanpic/PT.png)
+
+----
 # <a id="pt">Introdução da extrusora de mistura de cores </a> [:arrow_heading_up:](#choose-language)
-### Princípio de funcionamento da extrusora de cores mistas
-[][mix_color_principle]
-
-### :warning: Este guia é feito para 4 extrusoras com hot end de cores misturadas 4-IN-1-OUT.
-O recurso de mistura de cores é uma função para misturar vários filamentos de cores diferentes e extrudados de um bico para obter um novo filamento de cor. Ao ajustar a proporção de extrusão de cada extrusora, pode-se obter filamentos de cores diferentes. Por exemplo, misture os filamentos Magenta e Amarelo na proporção de 5:1 para obter o filamento Vermelho, e misture os filamentos Magenta e Amarelo na proporção de 1:1 para obter o filamento Laranja.
-
-## A impressora 3D ZONESTAR mix color pode atingir as seguintes funções:
 1. **Recurso de mistura manual de cores:** Ajuste manualmente a taxa de extrusão de cada extrusora ([proporção de mistura](#pt_a3)) pelo painel de controle LCD para alterar a cor de impressão.
 2. **Recurso de mistura de cores gradientes:** A função de mistura de gradientes é um recurso que altera automaticamente a [taxa de mistura](#pt_a3) de acordo com a altura de impressão. Ele pode ser ativado no painel de controle LCD ou adicionando gcode a "Iniciar código G" ao fatiar.
 3. **Recurso de mistura de cores aleatórias:** A função de mistura aleatória é um recurso de alteração aleatória da [taxa de mistura](#pt_a3) de acordo com a altura de impressão. Ele pode ser ativado no painel de controle LCD ou adicionando gcode a "Iniciar código G" ao fatiar.
 4. **Recurso multicolorido misto** Para usar uma [**extrusora virtual**](#pt_a4), a impressora 3D de cores misturadas pode imprimir mais cores do que as extrusoras reais. Por exemplo, imprimir modelos 3D de 8 cores usando 4 extrusoras. Agora a impressora 3D mix color ZONESTAR pode configurar até 16 extrusoras virtuais.
+#### :warning: Este guia é feito para 4 extrusoras com hot end de cores misturadas 4-IN-1-OUT.
+O recurso de mistura de cores é uma função para misturar vários filamentos de cores diferentes e extrudados de um bico para obter um novo filamento de cor. Ao ajustar a proporção de extrusão de cada extrusora, pode-se obter filamentos de cores diferentes. Por exemplo, misture os filamentos Magenta e Amarelo na proporção de 5:1 para obter o filamento Vermelho, e misture os filamentos Magenta e Amarelo na proporção de 1:1 para obter o filamento Laranja.
 
-## <a id="pt_a">Terminologia </a>
+### :book: Contente
+- [**Terminologia e princípio de funcionamento**](#pt_a)
+- [**Como definir a taxa de mistura da extrusora virtual**](#pt_b)
+- [**Manual de operação de mistura automática de cores**](#pt_c)
+- [**Manual de operação multicor mista**](#pt_d)
+
+### <a id="pt_w">Princípio de funcionamento da extrusora de cores mistas </a>
+[][mix_color_principle]
+### <a id="pt_a">Terminologia </a>
 Alguns nomes próprios são usados ​​na mistura de impressão em cores. Esta seção fez uma descrição detalhada desses nomes, para entender melhor os documentos a seguir.
 #### <a id="pt_a1">Extrusora Bowden </a>
 Uma extrusora Bowden é um tipo de extrusora que empurra o filamento através de um tubo de PTFE longo e flexível (tubo Bowden) até a extremidade quente. As impressoras 3D multicoloridas ZONESTAR são usadas na extrusora Bowden. [:page_with_curl:página wiki](https://en.wikipedia.org/wiki/3D_printer_extruder)
@@ -225,20 +246,27 @@ Para saber como usar uma extrusora virtual para imprimir modelos 3D com mais cor
 ###### ![](./noahs.jpg) ![](./owl.jpg)
 
 ----
+![](../lanpic/FR.png)
+
+----
 # <a id="fr">Présentation de l'extrudeuse de mélange de couleurs </a> [:arrow_heading_up:](#choose-language)
-### Principe de fonctionnement de l'extrudeuse de couleurs mélangées
-[][mix_color_principle]
-
-### :warning: Ce guide est destiné à 4 extrudeuses avec hot end de couleurs mélangées 4-IN-1-OUT.
-La fonction de mélange de couleurs est une fonction permettant de mélanger plusieurs filaments de couleurs différentes et d'être extrudés à partir d'une buse pour obtenir un nouveau filament de couleur. En ajustant le taux d'extrusion de chaque extrudeuse, vous pouvez obtenir un filament de couleur différente. Par exemple, mélangez les filaments magenta et jaune dans un rapport de 5:1 pour obtenir un filament rouge, et mélangez les filaments magenta et jaune dans un rapport de 1:1 pour obtenir un filament orange.
-
-## L'imprimante 3D ZONESTAR mix color peut réaliser les fonctions suivantes:
 1. **Fonction de mélange manuel des couleurs :** Ajustez manuellement le taux d'extrusion de chaque extrudeuse ([rapport de mélange](#fr_a3)) à l'aide du panneau de commande LCD pour modifier la couleur d'impression.
 2. **Fonction de mélange de dégradés de couleurs :** La fonction de mélange de dégradés est une fonctionnalité permettant de modifier automatiquement le [taux de mélange] (#fr_a3) en fonction de la hauteur d'impression. Il peut être activé à partir du panneau de commande LCD ou en ajoutant du gcode à « Démarrer le G-code » lors du découpage.
 3. **Fonction de mélange aléatoire des couleurs :** La fonction de mélange aléatoire est une fonctionnalité permettant de modifier le [taux de mélange] (#fr_a3) en fonction de la hauteur d'impression de manière aléatoire. Il peut être activé à partir du panneau de commande LCD ou en ajoutant du gcode à « Démarrer le G-code » lors du découpage.
 4. **Fonction multicolore mixte** Pour utiliser une [**extrudeuse virtuelle**](#fr_a4), l'imprimante 3D à mélange de couleurs peut imprimer plus de couleurs que les extrudeuses réelles. Par exemple, imprimer des modèles 3D en 8 couleurs à l'aide de 4 extrudeuses. Désormais, l'imprimante 3D ZONESTAR mix color peut configurer jusqu'à 16 extrudeuses virtuelles.
+#### :warning: Ce guide est destiné à 4 extrudeuses avec hot end de couleurs mélangées 4-IN-1-OUT.
+La fonction de mélange de couleurs est une fonction permettant de mélanger plusieurs filaments de couleurs différentes et d'être extrudés à partir d'une buse pour obtenir un nouveau filament de couleur. En ajustant le taux d'extrusion de chaque extrudeuse, vous pouvez obtenir un filament de couleur différente. Par exemple, mélangez les filaments magenta et jaune dans un rapport de 5:1 pour obtenir un filament rouge, et mélangez les filaments magenta et jaune dans un rapport de 1:1 pour obtenir un filament orange.
 
-## <a id="fr_a">Terminologie </a>
+### :book: Contenu
+- [**Terminologie et principe de fonctionnement**](#fr_a)
+- [**Comment définir le rapport de mélange de l'extrudeuse virtuelle**](#fr_b)
+- [**Manuel d'utilisation des couleurs de mélange automatique**](#fr_c)
+- [**Manuel d'utilisation multicolore mixte**](#fr_d)
+
+### <a id="fr_w">Principe de fonctionnement de l'extrudeuse de couleurs mélangées </a>
+[][mix_color_principle]
+
+### <a id="fr_a">Terminologie </a>
 Certains noms propres sont utilisés dans le mélange d'impressions couleur, cette section a fait une description détaillée de ces noms, pour mieux comprendre les documents suivants.
 #### <a id="fr_a1">Extrudeuse Bowden </a>
 Une extrudeuse Bowden est un type d'extrudeuse qui pousse le filament à travers un tube PTFE long et flexible (tube Bowden) jusqu'à l'extrémité chaude. Les imprimantes 3D multicolores ZONESTAR utilisent une extrudeuse Bowden. [:page_with_curl:page wiki](https://en.wikipedia.org/wiki/3D_printer_extruder)
@@ -295,26 +323,33 @@ Pour savoir comment utiliser une extrudeuse virtuelle pour imprimer des modèles
 ###### ![](./noahs.jpg) ![](./owl.jpg)
 
 ----
+![](../lanpic/DE.png)
+
+----
 # <a id="de">Einführung in den Farbmischextruder </a>  [:arrow_heading_up:](#choose-language)
-### Funktionsprinzip des Mischfarbenextruders
-[][mix_color_principle]
-
-### :warning: Diese Anleitung ist für 4 Extruder mit 4-IN-1-OUT-Mischfarben-Hot-Enden gedacht.
-Die Farbmischfunktion ist eine Funktion zum Mischen mehrerer unterschiedlicher Farbfilamente und zum Extrudieren aus einer Düse, um ein neues Farbfilament zu erhalten. Durch Anpassen des Extrusionsverhältnisses jedes Extruders können unterschiedliche Farbfilamente erhalten werden. Mischen Sie beispielsweise Magenta- und Gelbfilament im Verhältnis 5:1, um rotes Filament zu erhalten, und mischen Sie Magenta- und Gelbfilament im Verhältnis 1:1, um oranges Filament zu erhalten.
-
-## Der ZONESTAR-Mischfarben-3D-Drucker kann die folgenden Funktionen ausführen:
 1. **Manuelle Farbmischfunktion:** Passen Sie das Extrusionsverhältnis jedes Extruders ([Mischverhältnis](#de_a3)) manuell über das LCD-Bedienfeld an, um die Druckfarbe zu ändern.
 2. **Funktion zum Mischen von Farbverläufen:** Die Funktion zum Mischen von Farbverläufen ist eine Funktion zum automatischen Ändern des [Mischverhältnisses](#de_a3) entsprechend der Druckhöhe. Sie kann über das LCD-Bedienfeld aktiviert werden oder indem beim Slicen G-Code zu „G-Code starten“ hinzugefügt wird.
 3. **Funktion zum zufälligen Mischen von Farben:** Die Funktion zum zufälligen Mischen ist eine Funktion zum zufälligen Ändern des [Mischverhältnisses](#de_a3) entsprechend der Druckhöhe. Sie kann über das LCD-Bedienfeld aktiviert werden oder indem beim Slicen G-Code zu „G-Code starten“ hinzugefügt wird.
 4. **Funktion für gemischte Mehrfarben** Durch die Verwendung eines [**virtuellen Extruders**](#de_a4) kann der 3D-Drucker mit Farbverläufen mehr Farben drucken als die tatsächlichen Extruder. Beispielsweise können 8-farbige 3D-Modelle mit 4 Extrudern gedruckt werden. Jetzt kann der 3D-Drucker mit Farbverläufen von ZONESTAR bis zu 16 virtuelle Extruder einrichten.
+#### :warning: Diese Anleitung ist für 4 Extruder mit 4-IN-1-OUT-Mischfarben-Hot-Enden gedacht.
+Die Farbmischfunktion ist eine Funktion zum Mischen mehrerer unterschiedlicher Farbfilamente und zum Extrudieren aus einer Düse, um ein neues Farbfilament zu erhalten. Durch Anpassen des Extrusionsverhältnisses jedes Extruders können unterschiedliche Farbfilamente erhalten werden. Mischen Sie beispielsweise Magenta- und Gelbfilament im Verhältnis 5:1, um rotes Filament zu erhalten, und mischen Sie Magenta- und Gelbfilament im Verhältnis 1:1, um oranges Filament zu erhalten.
 
-## <a id="de_a">Terminologie </a>
+### :book: Inhalt
+- [**Terminologie und Funktionsprinzip**](#de_a)
+- [**So stellen Sie das Mischverhältnis des virtuellen Extruders ein**](#de_b)
+- [**Bedienungsanleitung für automatische Farbmischung**](#de_c)
+- [**Bedienungsanleitung für gemischte Mehrfarben**](#de_d)
+
+### <a id="de_w">Funktionsprinzip des Mischfarbenextruders </a>
+[][mix_color_principle]
+
+### <a id="de_a">Terminologie </a>
 Beim Mischfarbdruck werden einige Eigennamen verwendet. In diesem Abschnitt werden diese Namen ausführlich beschrieben, damit Sie die folgenden Dokumente besser verstehen.
 #### <a id="de_a1">Bowden-Extruder </a>
 Ein Bowden-Extruder ist ein Extrudertyp, der Filament durch ein langes und flexibles PTFE-Rohr (Bowden-Rohr) zum heißen Ende schiebt. ZONESTAR-Mehrfarb-3D-Drucker verwenden Bowden-Extruder. [:page_with_curl: Wiki-Seite](https://en.wikipedia.org/wiki/3D_printer_extruder)
 ###### ![](./BowdenExtruder.jpg)
 >
-A. Filamentzufuhrmechanismus B. PTFE-Schlauch C. Heißes Ende
+	A. Filamentzufuhrmechanismus B. PTFE-Schlauch C. Heißes Ende
 #### <a id="de_a2">Extruder / Werkzeugkette </a>
 Manchmal bezeichnen wir das gesamte Extrusionssystem (A+B+C in der Abbildung oben) als Extruder, aber manchmal bezieht sich Extruder speziell auf den Filamentzufuhrmechanismus (A in der Abbildung oben), was je nach Kontext bestimmt werden muss. In einigen Slicing-Programmen wird der Extruder auch als „Werkzeugkette“, „Werkzeugkopf“ oder „Werkzeug“ bezeichnet.
 #### <a id="de_a3">Mischverhältnis </a>
@@ -365,20 +400,27 @@ Informationen zum Verwenden eines virtuellen Extruders zum Drucken von 3D-Modell
 ###### ![](./noahs.jpg) ![](./owl.jpg)
 
 ----
+![](../lanpic/IT.png)
+
+----
 # <a id="it">Introduzione dell'estrusore per la miscelazione dei colori </a> [:arrow_heading_up:](#choose-language)
-### Principio di funzionamento dell'estrusore a colori misti
-[][mix_color_principle]
-
-### :warning: questa guida è fatta per 4 estrusori con hot end di colore mix 4-IN-1-OUT.
-La funzione di miscelazione del colore è una funzione per mescolare filamenti di colore diverso ed estrusi da un ugello per ottenere un nuovo filamento di colore. Regolando il rapporto di estrusione di ciascun estrusore, è possibile ottenere filamenti di colore diverso. Ad esempio, mescola il filamento magenta e giallo in un rapporto 5:1 per ottenere il filamento rosso e mescola il filamento magenta e giallo in un rapporto 1:1 per ottenere il filamento arancione.
-
-## La stampante 3D a colori mix ZONESTAR può ottenere le seguenti funzioni:
 1. **Funzione di miscelazione manuale dei colori:** Regola manualmente il rapporto di estrusione di ciascun estrusore ([rapporto di miscelazione](#it_a3)) tramite il pannello di controllo LCD per modificare il colore di stampa.
 2. **Funzione di miscelazione del colore sfumato:** La funzione di miscelazione del gradiente consente di modificare automaticamente il [rapporto di miscelazione](#it_a3) in base all'altezza di stampa. Può essere attivato dal pannello di controllo LCD o aggiungendo gcode a "Avvia G-code" durante l'affettatura.
 3. **Funzione di miscelazione casuale dei colori:** La funzione di miscelazione casuale consente di modificare il [rapporto di miscelazione](#it_a3) in base all'altezza di stampa in modo casuale. Può essere attivato dal pannello di controllo LCD o aggiungendo gcode a "Avvia G-code" durante l'affettatura.
 4. **Funzione multicolore mista** Per utilizzare un [**estrusore virtuale**](#it_a4), la stampante 3D a colori miscelati può stampare più colori rispetto agli estrusori reali. Ad esempio, stampando modelli 3D a 8 colori utilizzando 4 estrusori. Ora la stampante 3D a colori mix ZONESTAR può impostare fino a 16 estrusori virtuali.
+#### :warning: questa guida è fatta per 4 estrusori con hot end di colore mix 4-IN-1-OUT.
+La funzione di miscelazione del colore è una funzione per mescolare filamenti di colore diverso ed estrusi da un ugello per ottenere un nuovo filamento di colore. Regolando il rapporto di estrusione di ciascun estrusore, è possibile ottenere filamenti di colore diverso. Ad esempio, mescola il filamento magenta e giallo in un rapporto 5:1 per ottenere il filamento rosso e mescola il filamento magenta e giallo in un rapporto 1:1 per ottenere il filamento arancione.
 
-## <a id="it_a">Terminologia </a>
+### :book: Contenuto
+- [**Terminologia e principio di funzionamento**](#it_a)
+- [**Come impostare il rapporto di miscelazione dell'estrusore virtuale**](#it_b)
+- [**Manuale operativo per la miscelazione automatica del colore**](#it_c)
+- [**Manuale operativo multicolore misto**](#it_d)
+
+### <a id="it_w">Principio di funzionamento dell'estrusore a colori misti </a>
+[][mix_color_principle]
+
+### <a id="it_a">Terminologia </a>
 Alcuni nomi propri vengono utilizzati nella miscelazione della stampa a colori, questa sezione fornisce una descrizione dettagliata di questi nomi, per comprendere meglio i seguenti documenti.
 #### <a id="it_a1">Estrusore Bowden </a>
 Un estrusore Bowden è un tipo di estrusore che spinge il filamento attraverso un tubo PTFE lungo e flessibile (tubo Bowden) fino all'estremità calda. Le stampanti 3D multicolori ZONESTAR utilizzano l'estrusore Bowden. [:page_with_curl:pagina wiki](https://en.wikipedia.org/wiki/3D_printer_extruder)
@@ -435,18 +477,27 @@ Per sapere come utilizzare un estrusore virtuale per stampare modelli 3D con pi�
 ###### ![](./noahs.jpg) ![](./owl.jpg)
 
 ----
-# <a id="ru">Представление экструдера для смешивания цветов </a> [:arrow_heading_up:](#choose-language)
-### Принцип работы экструдера смешанных цветов
-[][mix_color_principle]
+![](../lanpic/RU.png)
 
-### :warning: Это руководство предназначено для 4 экструдеров с горячим концом для смешивания цветов 4-В-1-ВЫХ.
-Функция смешивания цветов — это функция, позволяющая смешивать нити разных цветов и выдавливать их из одного сопла для получения нити нового цвета. Регулируя коэффициент выдавливания каждого экструдера, можно получить нить разного цвета. Например, смешайте пурпурную и желтую нить в соотношении 5:1, чтобы получить красную нить, а смешайте пурпурную и желтую нить в соотношении 1:1, чтобы получить оранжевую нить.
-## Цветной 3D-принтер ZONESTAR может выполнять следующие функции:
+----
+# <a id="ru">Представление экструдера для смешивания цветов </a> [:arrow_heading_up:](#choose-language)
 1. **Функция ручного смешивания цветов:** вручную отрегулируйте коэффициент экструзии каждого экструдера ([коэффициент смешивания](#ru_a3)) с помощью ЖК-панели управления, чтобы изменить цвет печати.
 2. **Функция градиентного смешивания цветов:** Функция градиентного смешивания — это функция автоматического изменения [коэффициента смешивания] (#ru_a3) в зависимости от высоты печати. Его можно активировать с ЖК-панели управления или добавив gcode в поле «Начать G-код» при нарезке.
 3. **Функция случайного смешивания цветов:** Функция случайного смешивания позволяет случайным образом изменять [коэффициент смешивания](#ru_a3) в зависимости от высоты печати. Его можно активировать с ЖК-панели управления или добавив gcode в поле «Начать G-код» при нарезке.
 4. **Функция смешанной многоцветной печати** Чтобы использовать [**виртуальный экструдер**](#ru_a4), 3D-принтер со смешиванием цветов может печатать больше цветов, чем настоящие экструдеры. Например, печать 8-цветных 3D-моделей с помощью 4-х экструдеров. Теперь смешанный цветной 3D-принтер ZONESTAR может установить до 16 виртуальных экструдеров.
-## <a id="ru_a">Терминология </a>
+### :warning: Это руководство предназначено для 4 экструдеров с горячим концом для смешивания цветов 4-В-1-ВЫХ.
+Функция смешивания цветов — это функция, позволяющая смешивать нити разных цветов и выдавливать их из одного сопла для получения нити нового цвета. Регулируя коэффициент выдавливания каждого экструдера, можно получить нить разного цвета. Например, смешайте пурпурную и желтую нить в соотношении 5:1, чтобы получить красную нить, а смешайте пурпурную и желтую нить в соотношении 1:1, чтобы получить оранжевую нить.
+
+### :book: Содержание
+- [**Терминология и принцип работы**](#ru_a)
+- [**Как установить соотношение смешивания виртуального экструдера**](#ru_b)
+- [**Руководство по эксплуатации автоматического смешивания цветов**](#ru_c)
+- [**Руководство по эксплуатации смешанного многоцветного изображения**](#ru_d)
+
+### <a id="ru_w">Принцип работы экструдера смешанных цветов </a>
+[][mix_color_principle]
+
+### <a id="ru_a">Терминология </a>
 Некоторые существительные собственные используются при смешанной цветной печати. ​​В этом разделе приведено подробное описание этих имен, чтобы лучше понять следующие документы.
 #### <a id="ru_a1">Экструдер Боудена </a>
 Экструдер Боудена — это тип экструдера, который проталкивает нить через длинную и гибкую трубку из ПТФЭ (трубка Боудена) к горячему концу. В многоцветных 3D-принтерах ZONESTAR используется экструдер Боудена. [:page_with_curl: вики-страница](https://en.wikipedia.org/wiki/3D_printer_extrumer)
@@ -503,22 +554,29 @@ Per sapere come utilizzare un estrusore virtuale per stampare modelli 3D con pi�
 ###### ![](./noahs.jpg) ![](./owl.jpg)
 
 ----
+![](../lanpic/JP.png)
+
+----
 # <a id="jp">カラー混合押出機の紹介 </a> [:arrow_heading_up:](#choose-language)
-### 混合カラー押出機の動作原理
-[][mix_color_principle]
-
-### :warning: このガイドは、4-IN-1-OUT 混合カラーホットエンドを備えた 4 つの押出機向けに作成されています。
-カラー混合機能は、複数の異なるカラーフィラメントを混合し、1 つのノズルから押し出して新しいカラーフィラメントを作成する機能です。各押出機の押し出し比率を調整することで、異なるカラーフィラメントを作成できます。たとえば、マゼンタとイエローのフィラメントを 5:1 の比率で混合するとレッドフィラメントが作成され、マゼンタとイエローのフィラメントを 1:1 の比率で混合するとオレンジフィラメントが作成されます。
-
-## ZONESTAR ミックスカラー 3D プリンターは、次の機能を実現できます。
 1. **手動カラー混合機能:** LCD コントロール パネルで各押出機の押し出し比率 ([混合比率](#jp_a3)) を手動で調整して、印刷色を変更します。
 2. **グラデーション カラー混合機能:** グラデーション混合機能は、印刷の高さに応じて [混合比率](#jp_a3) を自動的に変更する機能です。LCD コントロール パネルからアクティブにするか、スライス時に「開始 G コード」に gcode を追加することでアクティブにできます。
 3. **ランダム カラー混合機能:** ランダム混合機能は、印刷の高さに応じて [混合比率](#jp_a3) をランダムに変更する機能です。LCD コントロール パネルからアクティブにするか、スライス時に「開始 G コード」に gcode を追加することでアクティブにできます。
 4. **混合マルチカラー機能** [**仮想押出機**](#jp_a4) を使用するため、ミックスカラー 3D プリンターは実際の押出機よりも多くの色を印刷できます。たとえば、4 つの押し出し機を使用して 8 色の 3D モデルを印刷します。現在、ZONESTAR ミックス カラー 3D プリンターは、最大 16 個の仮想押し出し機を設定できます。
+#### :warning: このガイドは、4-IN-1-OUT 混合カラーホットエンドを備えた 4 つの押出機向けに作成されています。
+カラー混合機能は、複数の異なるカラーフィラメントを混合し、1 つのノズルから押し出して新しいカラーフィラメントを作成する機能です。各押出機の押し出し比率を調整することで、異なるカラーフィラメントを作成できます。たとえば、マゼンタとイエローのフィラメントを 5:1 の比率で混合するとレッドフィラメントが作成され、マゼンタとイエローのフィラメントを 1:1 の比率で混合するとオレンジフィラメントが作成されます。
 
-## <a id="a">用語 </a>
+### :book: コンテンツ
+- [**用語と動作原理**](#jp_a)
+- [**仮想押出機の混合比の設定方法**](#jp_b)
+- [**自動混合色操作マニュアル**](#jp_c)
+- [**混合マルチカラー操作マニュアル**](#jp_d)
+
+### <a id="jp_w">混合カラー押出機の動作原理 </a>
+[][mix_color_principle]
+
+### <a id="jp_a">用語 </a>
 ミックス カラー印刷ではいくつかの固有名詞が使用されています。このセクションでは、以降のドキュメントをよりよく理解できるように、これらの名前について詳しく説明しました。
-#### <a id="a1">ボーデン押し出し機 </a>
+#### <a id="jp_a1">ボーデン押し出し機 </a>
 ボーデン押し出し機は、長くて柔軟な PTFE チューブ (ボーデン チューブ) を通してフィラメントをホット エンドに押し出すタイプの押し出し機です。ZONESTAR マルチ カラー 3D プリンターでは、ボーデン押し出し機が使用されています。 [:page_with_curl:wiki ページ](https://en.wikipedia.org/wiki/3D_printer_extruder)
 ###### ![](./BowdenExtruder.jpg)
 >
@@ -573,20 +631,27 @@ ZONESTAR ミックス カラー 3D プリンターには、16 個の仮想押出
 ###### ![](./noahs.jpg) ![](./owl.jpg)
 
 ----
+![](../lanpic/KR.png)
+
+----
 # <a id="kr">혼색압출기 소개</a> [:arrow_heading_up:](#choose-language)
-### 혼합 색상 압출기의 작동 원리
-[][mix_color_principle]
-
-### :warning: 이 가이드는 4-IN-1-OUT 혼합 색상 핫엔드가 있는 4개의 압출기에 대해 작성되었습니다.
-혼색 기능은 여러 가지 색상의 필라멘트를 혼합하여 하나의 노즐에서 압출하여 새로운 색상의 필라멘트를 얻는 기능입니다. 각 Extruder의 Extruding 비율을 조정하여 다양한 색상의 필라멘트를 얻을 수 있습니다. 예를 들어, 마젠타색과 노란색 필라멘트를 5:1 비율로 혼합하면 빨간색 필라멘트를 얻을 수 있고, 마젠타색과 노란색 필라멘트를 1:1 비율로 혼합하면 주황색 필라멘트를 얻을 수 있습니다.
-
-## ZONESTAR 믹스 컬러 3D 프린터는 다음과 같은 기능을 수행할 수 있습니다.
 1. **수동 색상 혼합 기능:** LCD 제어판을 통해 각 Extruder의 압출 비율([혼합 비율](#kr_a3))을 수동으로 조정하여 인쇄 색상을 변경합니다.
 2. **그라디언트 색상 혼합 기능:** 그라데이션 혼합 기능은 인쇄 높이에 따라 [혼합 비율](#kr_a3)을 자동으로 변경하는 기능입니다. LCD 제어판에서 활성화하거나 슬라이싱 시 "Start G-code"에 gcode를 추가하여 활성화할 수 있습니다.
 3. **랜덤 색상 혼합 기능:** 랜덤 혼합 기능은 인쇄 높이에 따라 [혼합 비율](#kr_a3)을 무작위로 변경하는 기능입니다. LCD 제어판에서 활성화하거나 슬라이싱 시 "Start G-code"에 gcode를 추가하여 활성화할 수 있습니다.
 4. **혼합 멀티 컬러 기능** [**가상 압출기**](#kr_a4)를 사용하면 혼합 컬러 3D 프린터가 실제 압출기보다 더 많은 색상을 인쇄할 수 있습니다. 예를 들어, 4개의 압출기를 사용하여 8색 3D 모델을 인쇄합니다. 이제 ZONESTAR 믹스 컬러 3D 프린터는 최대 16개의 가상 압출기를 설정할 수 있습니다.
+#### :warning: 이 가이드는 4-IN-1-OUT 혼합 색상 핫엔드가 있는 4개의 압출기에 대해 작성되었습니다.
+혼색 기능은 여러 가지 색상의 필라멘트를 혼합하여 하나의 노즐에서 압출하여 새로운 색상의 필라멘트를 얻는 기능입니다. 각 Extruder의 Extruding 비율을 조정하여 다양한 색상의 필라멘트를 얻을 수 있습니다. 예를 들어, 마젠타색과 노란색 필라멘트를 5:1 비율로 혼합하면 빨간색 필라멘트를 얻을 수 있고, 마젠타색과 노란색 필라멘트를 1:1 비율로 혼합하면 주황색 필라멘트를 얻을 수 있습니다.
 
-## <a id="kr_a">용어 </a>
+### :book: 콘텐츠
+- [**용어 및 작동 원리**](#kr_a)
+- [**가상 압출기의 혼합비 설정 방법**](#kr_b)
+- [**자동 혼합 색상 작동 매뉴얼**](#kr_c)
+- [**혼합 멀티 컬러 작동 매뉴얼**](#kr_d)
+
+### <a id="kr_w">혼합 색상 압출기의 작동 원리 </a>
+[][mix_color_principle]
+
+### <a id="kr_a">용어 </a>
 혼합 컬러 인쇄에는 일부 고유 명사가 사용됩니다. 이 섹션에서는 다음 문서를 더 잘 이해할 수 있도록 이러한 이름에 대한 자세한 설명을 작성했습니다.
 #### <a id="kr_a1">보우덴 압출기 </a>
 Bowden 압출기는 길고 유연한 PTFE 튜브(Bowden 튜브)를 통해 필라멘트를 뜨거운 끝 부분까지 밀어내는 압출기 유형입니다. ZONESTAR 멀티 컬러 3D 프린터는 Bowden 압출기를 사용합니다. [:page_with_curl:wiki 페이지](https://en.wikipedia.org/wiki/3D_printer_extruder)
