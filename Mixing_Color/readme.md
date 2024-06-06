@@ -70,8 +70,7 @@ Commands list as below:
 	M163 S3 Pn		; set the mix ratio of actual extruder #4, "n" is from 0 to 100
 	M164 Sm   		; save the mix ratio of extruders to the "VTOOLm", "m" is from 0 to 16
 	
-For example, you added the below commands into the "Start G-code" of slicing software.
->
+	For example, you added the below commands into the "Start G-code" of slicing software.
 	M163 S0 P10		
 	M163 S1 P20		
 	M163 S2 P30		
@@ -144,9 +143,8 @@ La lista de comandos es la siguiente:
 	M163 S2 Pz	; establezca la proporción de mezcla del extrusor real n.° 3, "z" es de 0 a 100
 	M163 S3 Pn	; establezca la proporción de mezcla del extrusor real #4, "n" es de 0 a 100
 	M164 Sm 		; guarde la proporción de mezcla de las extrusoras en "VTOOLm", "m" es de 0 a 16
-
-Por ejemplo, agregó los siguientes comandos al "Iniciar código G" del software de corte.
->
+	
+	Por ejemplo, agregó los siguientes comandos al "Iniciar código G" del software de corte.
 	M163 S0 P10
 	M163 S1 P20
 	M163 S2 P30
@@ -218,9 +216,7 @@ Lista de comandos conforme abaixo:
 	M163 S2 Pz	; defina a proporção de mistura da extrusora real nº 3, "z" é de 0 a 100
 	M163 S3 Pn	; defina a proporção de mistura da extrusora real nº 4, "n" é de 0 a 100
 	M164 Sm			; salve a proporção de mistura das extrusoras para o "VTOOLm", "m" é de 0 a 16
-
-Por exemplo, você adicionou os comandos abaixo ao "Iniciar código G" do software de fatiamento.
->
+	Por exemplo, você adicionou os comandos abaixo ao "Iniciar código G" do software de fatiamento.
 	M163 S0 P10
 	M163 S1 P20
 	M163 S2 P30
@@ -294,8 +290,7 @@ Liste des commandes comme ci-dessous :
 	M163 S3 Pn 	; définir le rapport de mélange de l'extrudeuse réelle n°4, "n" est compris entre 0 et 100
 	M164 Sm 		; enregistrez le rapport de mélange des extrudeuses sur le "VTOOLm", "m" est de 0 à 16
 
-Par exemple, vous avez ajouté les commandes ci-dessous dans le « Démarrer le G-code » du logiciel de découpage.
->
+	Par exemple, vous avez ajouté les commandes ci-dessous dans le « Démarrer le G-code » du logiciel de découpage.
 	M163 S0 P10
 	M163 S1 P20
 	M163 S2 P30
@@ -369,8 +364,7 @@ Befehlsliste wie folgt:
 	M163 S3 Pn	; Mischverhältnis des tatsächlichen Extruders Nr. 4 festlegen, „n“ ist von 0 bis 100
 	M164 Sm			; Speichern Sie das Mischungsverhältnis der Extruder im „VTOOLm“, „m“ ist von 0 bis 16
 
-Beispiel: Sie haben die folgenden Befehle in den „Start-G-Code“ der Slicing-Software eingefügt.
->
+	Beispiel: Sie haben die folgenden Befehle in den „Start-G-Code“ der Slicing-Software eingefügt.
 	M163 S0 P10
 	M163 S1 P20
 	M163 S2 P30
@@ -443,9 +437,7 @@ Elenco dei comandi come di seguito:
 	M163 S2 Pz 	; impostare il rapporto di miscelazione dell'effettivo estrusore n. 3, "z" va da 0 a 100
 	M163 S3 Pn	; impostare il rapporto di miscelazione dell'estrusore effettivo n. 4, "n" va da 0 a 100
 	M164 Sm 		; salvare il rapporto di miscelazione degli estrusori su "VTOOLm", "m" va da 0 a 16
-
-Ad esempio, hai aggiunto i comandi seguenti nel "Avvia codice G" del software di slicing.
->
+	Ad esempio, hai aggiunto i comandi seguenti nel "Avvia codice G" del software di slicing.
 	M163 S0 P10
 	M163 S1 P20
 	M163 S2 P30
@@ -514,18 +506,17 @@ Per sapere come utilizzare un estrusore virtuale per stampare modelli 3D con pi�
 Список команд приведен ниже:
 >
 	M163 S0 Px 	; установите соотношение смешивания фактического экструдера №1, «x» от 0 до 100
-  М163 S1 Ру	; установите соотношение смешивания фактического экструдера № 2, «y» от 0 до 100
-  М163 S2 Pz	; установите соотношение смешивания фактического экструдера №3, «z» от 0 до 100.
-  M163 S3 Pn 	; установите соотношение смешивания фактического экструдера № 4, «n» от 0 до 100
-  М164 Sm    	; сохранить соотношение смешивания экструдеров в "VTOOLm", "m" от 0 до 16
+	М163 S1 Ру	; установите соотношение смешивания фактического экструдера № 2, «y» от 0 до 100
+	М163 S2 Pz	; установите соотношение смешивания фактического экструдера №3, «z» от 0 до 100.
+	M163 S3 Pn 	; установите соотношение смешивания фактического экструдера № 4, «n» от 0 до 100
+	М164 Sm    	; сохранить соотношение смешивания экструдеров в "VTOOLm", "m" от 0 до 16
 
-Например, вы добавили приведенные ниже команды в «Запуск G-кода» программного обеспечения для нарезки.
->
-  М163 S0 P10
-  М163 S1 P20
-  М163 S2 P30
-  М163 S3 P40
-  М164 S4
+	Например, вы добавили приведенные ниже команды в «Запуск G-кода» программного обеспечения для нарезки.
+	М163 S0 P10
+	М163 S1 P20
+	М163 S2 P30
+	М163 S3 P40
+	М164 S4
 
 После этого в VTOOL4 было установлено соотношение смешивания «E1:E2:E3:E4 = 10:20:30:40». При использовании VTOOL4 4 реальных экструдера будут подавать нити в соотношении 10:20:30:40.    
 :warning: Вы можете использовать команду «M163 R», чтобы сбросить настройки соотношения смешивания всех виртуальных экструдеров до значений по умолчанию.
@@ -594,8 +585,7 @@ ZONESTAR ミックス カラー 3D プリンターには、16 個の仮想押出
 	M163 S3 Pn ; 実際の押し出し機 #4 の混合比を設定します。「n」は 0 ～ 100 です
 	M164 Sm 	 ;押し出し機の混合比を「VTOOLm」に保存します。「m」は 0 から 16 です
 
-たとえば、スライス ソフトウェアの「Start G-code」に以下のコマンドを追加しました。
->
+	たとえば、スライス ソフトウェアの「Start G-code」に以下のコマンドを追加しました。
 	M163 S0 P10
 	M163 S1 P20
 	M163 S2 P30
@@ -669,8 +659,7 @@ LCD 제어판을 사용하거나 gcode 파일에 명령을 추가하여 각 가�
 	M163 S3 Pn ; 실제 Extruder #4의 혼합비를 설정합니다. "n"은 0~100입니다.
 	M164 SM ; 압출기의 혼합 비율을 "VTOOLm"에 저장합니다. "m"은 0에서 16입니다.
 
-예를 들어, 슬라이싱 소프트웨어의 "G 코드 시작"에 아래 명령을 추가했습니다.
->
+	예를 들어, 슬라이싱 소프트웨어의 "G 코드 시작"에 아래 명령을 추가했습니다.
 	M163 S0 P10
 	M163 S1 P20
 	M163 S2 P30
