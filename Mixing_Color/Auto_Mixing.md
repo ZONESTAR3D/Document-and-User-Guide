@@ -224,6 +224,7 @@ La lista de comandos es la siguiente:
   Después de eso, en el VTOOL4 se ha configurado la relación de mezcla "E1:E2:E3:E4 = 10:20:30:40". Cuando se utiliza VTOOL4, 4 extrusoras reales alimentarán
   filamentos en una proporción de 10:20:30:40.
 
+----
 # <a id="pt">Manual de operação de mistura automática de cores </a> [:arrow_heading_up:](#choose-language)
 ### :warning: Este guia é feito para 4 extrusoras com hot end de cores misturadas 4-IN-1-OUT.
 O recurso de mistura de cores é uma função para misturar vários filamentos de cores diferentes e extrudados de um bico para obter um novo filamento de cor. Ao ajustar a proporção de extrusão de cada extrusora, pode-se obter filamentos de cores diferentes. Por exemplo, misture os filamentos Magenta e Amarelo na proporção de 5:1 para obter o filamento Vermelho, e misture os filamentos Magenta e Amarelo na proporção de 1:1 para obter o filamento Laranja.
@@ -961,3 +962,5 @@ LCD 제어판을 사용하거나 슬라이싱 소프트웨어의 "G 코드 시�
 
   그 후 VTOOL4는 혼합 비율 "E1:E2:E3:E4 = 10:20:30:40"으로 설정되었습니다. VTOOL4를 사용하면 실제 압출기 4개가 공급됩니다.
   필라멘트를 10:20:30:40 비율로 사용합니다.
+
+	----

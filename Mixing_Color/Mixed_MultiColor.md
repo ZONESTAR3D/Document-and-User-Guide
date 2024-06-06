@@ -203,9 +203,6 @@ You can copy the below to the "Start G-code" in slicing software to set the mixi
 
 ----
 ![](../lanpic/ES.png)
-
-----
-
 # <a id="es"> Manual de operación multicolor mixto </a>  [:arrow_heading_up:](#choose-language)
 Esta guía presenta cómo imprimir un modelo 3D de 6 a 16 colores con un hotend de mezcla de colores 4 EN 1 SALIDA.
 
@@ -286,9 +283,6 @@ Puede copiar lo siguiente al "código G de inicio" en el software de corte para 
 
 ----
 ![](../lanpic/PT.png)
-
-----
-
 # <a id="pt"> Manual de operação multicolorido misto </a>  [:arrow_heading_up:](#choose-language)
 Este guia apresenta como imprimir modelos 3D de 6 a 16 cores com um Hotend de mistura de cores 4-IN-1-OUT.
 
@@ -369,8 +363,6 @@ Você pode copiar o texto abaixo para o "Iniciar código G" no software de fatia
 
 ----
 ![](../lanpic/FR.png)
-
-----
 # <a id="fr"> Manuel d'utilisation multicolore mixte </a> [:arrow_heading_up:](#choose-language)
 Ce guide explique comment imprimer un modèle 3D de 6 à 16 couleurs avec un Hotend de mélange de couleurs 4-IN-1-OUT.
 
@@ -451,8 +443,6 @@ Você pode copiar o próximo código G de início no software de corte para esta
 
 ----
 ![](../lanpic/DE.png)
-
-----
 # <a id="de"> Bedienungsanleitung für gemischte Mehrfarben </a> [:arrow_heading_up:](#choose-language)
 Diese Anleitung zeigt, wie man mit einem 4-IN-1-OUT-Mixing-Color-Hotend ein 3D-Modell mit 6 bis 16 Farben druckt.
 
@@ -533,8 +523,6 @@ Sie können das Folgende in den „Startcode G“ der Schnittsoftware kopieren, 
 
 ----
 ![](../lanpic/IT.png)
-
-----
 # <a id="it"> Manuale operativo multicolore misto </a> [:arrow_heading_up:](#scegli-lingua)
 Questa guida spiega come stampare un modello 3D da 6 a 16 colori con un hotend di miscelazione colori 4-IN-1-OUT.
 
@@ -615,8 +603,6 @@ Puoi copiare il successivo nel "codice G di inizio" nel software di corte per st
 
 ----
 ![](../lanpic/RU.png)
-
-----
 # <a id="ru"> Руководство по эксплуатации смешанной многоцветной печати </a> [:arrow_heading_up:](#choose-language)
 В этом руководстве рассказывается, как напечатать 3D-модель от 6 до 16 цветов с помощью смесителя цветов Hotend 4-В-1-ВЫХ.
 
@@ -697,8 +683,6 @@ Puoi copiare il successivo nel "codice G di inizio" nel software di corte per st
 
 ----
 ![](../lanpic/JP.png)
-
-----
 # <a id="jp"> 混合マルチカラー操作マニュアル </a> [:arrow_heading_up:](#choose-language)
 このガイドでは、4-IN-1-OUT 混合カラーホットエンドを使用して 6 ～ 16 色の​​ 3D モデルを印刷する方法を紹介します。
 
@@ -780,8 +764,6 @@ VTOOL の混合比設定を「Start G-code」に追加します。 [:page_with_c
 
 ----
 ![](../lanpic/KR.png)
-
-----
 # <a id="kr"> 혼합 다색 사용 설명서 </a> [:arrow_heading_up:](#choose-language)
 이 가이드에서는 4-IN-1-OUT 혼합 색상 핫엔드를 사용하여 6~16색 3D 모델을 인쇄하는 방법을 소개합니다.
 

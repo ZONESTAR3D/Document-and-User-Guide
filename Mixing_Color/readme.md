@@ -16,9 +16,6 @@
 <!-- [![](../lanpic/SA.png)](#ar) -->
 
 ----
-![](../lanpic/EN.png)
-
-----
 # <a id="en">Introduction of Color Mixing Extruder </a>
 ZONESTAR mix color 3d printer can achieve the following functions:
 1. **Manual color mixing feature:** Manually adjust the extrusion ratio of each extruder ([mixing ratio](#en_a3)) by the LCD control panel to change the printing color.
@@ -94,8 +91,6 @@ For how to use a virtual extruder to print 3D models with more colors than the n
 
 ----
 ![](../lanpic/ES.png)
-
-----
 # <a id="es">Introducción de la extrusora de mezcla de colores</a>  [:arrow_heading_up:](#choose-language)
 1. **Función de mezcla manual de colores:** Ajuste manualmente la proporción de extrusión de cada extrusor ([proporción de mezcla](#es_a3)) mediante el panel de control LCD para cambiar el color de impresión.
 2. **Función de mezcla de colores degradados:** La función de mezcla de degradados es una característica que permite cambiar automáticamente la [proporción de mezcla](#es_a3) según la altura de impresión. Se puede activar desde el panel de control LCD o agregando gcode a "Iniciar código G" al cortar.
@@ -171,8 +166,6 @@ Para saber cómo utilizar un extrusor virtual para imprimir modelos 3D con más 
 
 ----
 ![](../lanpic/PT.png)
-
-----
 # <a id="pt">Introdução da extrusora de mistura de cores </a> [:arrow_heading_up:](#choose-language)
 1. **Recurso de mistura manual de cores:** Ajuste manualmente a taxa de extrusão de cada extrusora ([proporção de mistura](#pt_a3)) pelo painel de controle LCD para alterar a cor de impressão.
 2. **Recurso de mistura de cores gradientes:** A função de mistura de gradientes é um recurso que altera automaticamente a [taxa de mistura](#pt_a3) de acordo com a altura de impressão. Ele pode ser ativado no painel de controle LCD ou adicionando gcode a "Iniciar código G" ao fatiar.
@@ -247,8 +240,6 @@ Para saber como usar uma extrusora virtual para imprimir modelos 3D com mais cor
 
 ----
 ![](../lanpic/FR.png)
-
-----
 # <a id="fr">Présentation de l'extrudeuse de mélange de couleurs </a> [:arrow_heading_up:](#choose-language)
 1. **Fonction de mélange manuel des couleurs :** Ajustez manuellement le taux d'extrusion de chaque extrudeuse ([rapport de mélange](#fr_a3)) à l'aide du panneau de commande LCD pour modifier la couleur d'impression.
 2. **Fonction de mélange de dégradés de couleurs :** La fonction de mélange de dégradés est une fonctionnalité permettant de modifier automatiquement le [taux de mélange] (#fr_a3) en fonction de la hauteur d'impression. Il peut être activé à partir du panneau de commande LCD ou en ajoutant du gcode à « Démarrer le G-code » lors du découpage.
@@ -324,8 +315,6 @@ Pour savoir comment utiliser une extrudeuse virtuelle pour imprimer des modèles
 
 ----
 ![](../lanpic/DE.png)
-
-----
 # <a id="de">Einführung in den Farbmischextruder </a>  [:arrow_heading_up:](#choose-language)
 1. **Manuelle Farbmischfunktion:** Passen Sie das Extrusionsverhältnis jedes Extruders ([Mischverhältnis](#de_a3)) manuell über das LCD-Bedienfeld an, um die Druckfarbe zu ändern.
 2. **Funktion zum Mischen von Farbverläufen:** Die Funktion zum Mischen von Farbverläufen ist eine Funktion zum automatischen Ändern des [Mischverhältnisses](#de_a3) entsprechend der Druckhöhe. Sie kann über das LCD-Bedienfeld aktiviert werden oder indem beim Slicen G-Code zu „G-Code starten“ hinzugefügt wird.
@@ -401,8 +390,6 @@ Informationen zum Verwenden eines virtuellen Extruders zum Drucken von 3D-Modell
 
 ----
 ![](../lanpic/IT.png)
-
-----
 # <a id="it">Introduzione dell'estrusore per la miscelazione dei colori </a> [:arrow_heading_up:](#choose-language)
 1. **Funzione di miscelazione manuale dei colori:** Regola manualmente il rapporto di estrusione di ciascun estrusore ([rapporto di miscelazione](#it_a3)) tramite il pannello di controllo LCD per modificare il colore di stampa.
 2. **Funzione di miscelazione del colore sfumato:** La funzione di miscelazione del gradiente consente di modificare automaticamente il [rapporto di miscelazione](#it_a3) in base all'altezza di stampa. Può essere attivato dal pannello di controllo LCD o aggiungendo gcode a "Avvia G-code" durante l'affettatura.
@@ -478,8 +465,6 @@ Per sapere come utilizzare un estrusore virtuale per stampare modelli 3D con pi�
 
 ----
 ![](../lanpic/RU.png)
-
-----
 # <a id="ru">Представление экструдера для смешивания цветов </a> [:arrow_heading_up:](#choose-language)
 1. **Функция ручного смешивания цветов:** вручную отрегулируйте коэффициент экструзии каждого экструдера ([коэффициент смешивания](#ru_a3)) с помощью ЖК-панели управления, чтобы изменить цвет печати.
 2. **Функция градиентного смешивания цветов:** Функция градиентного смешивания — это функция автоматического изменения [коэффициента смешивания] (#ru_a3) в зависимости от высоты печати. Его можно активировать с ЖК-панели управления или добавив gcode в поле «Начать G-код» при нарезке.
@@ -555,8 +540,6 @@ Per sapere come utilizzare un estrusore virtuale per stampare modelli 3D con pi�
 
 ----
 ![](../lanpic/JP.png)
-
-----
 # <a id="jp">カラー混合押出機の紹介 </a> [:arrow_heading_up:](#choose-language)
 1. **手動カラー混合機能:** LCD コントロール パネルで各押出機の押し出し比率 ([混合比率](#jp_a3)) を手動で調整して、印刷色を変更します。
 2. **グラデーション カラー混合機能:** グラデーション混合機能は、印刷の高さに応じて [混合比率](#jp_a3) を自動的に変更する機能です。LCD コントロール パネルからアクティブにするか、スライス時に「開始 G コード」に gcode を追加することでアクティブにできます。
@@ -632,8 +615,6 @@ ZONESTAR ミックス カラー 3D プリンターには、16 個の仮想押出
 
 ----
 ![](../lanpic/KR.png)
-
-----
 # <a id="kr">혼색압출기 소개</a> [:arrow_heading_up:](#choose-language)
 1. **수동 색상 혼합 기능:** LCD 제어판을 통해 각 Extruder의 압출 비율([혼합 비율](#kr_a3))을 수동으로 조정하여 인쇄 색상을 변경합니다.
 2. **그라디언트 색상 혼합 기능:** 그라데이션 혼합 기능은 인쇄 높이에 따라 [혼합 비율](#kr_a3)을 자동으로 변경하는 기능입니다. LCD 제어판에서 활성화하거나 슬라이싱 시 "Start G-code"에 gcode를 추가하여 활성화할 수 있습니다.
@@ -707,4 +688,4 @@ LCD 제어판을 사용하거나 gcode 파일에 명령을 추가하여 각 가�
 가상 압출기를 사용하여 압출기 수보다 더 많은 색상으로 3D 모델을 인쇄하는 방법은 [:book:**이 가이드**][mixed_multi_color]를 참조하세요.
 ###### ![](./noahs.jpg) ![](./owl.jpg)
 
-
+----
