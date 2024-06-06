@@ -297,7 +297,7 @@ Pour savoir comment utiliser une extrudeuse virtuelle pour imprimer des modèles
 ----
 # <a id="de">Einführung in den Farbmischextruder </a>  [:arrow_heading_up:](#choose-language)
 ### Funktionsprinzip des Mischfarbenextruders
-[][Mischfarbenprinzip]
+[][mix_color_principle]
 
 ### :warning: Diese Anleitung ist für 4 Extruder mit 4-IN-1-OUT-Mischfarben-Hot-Enden gedacht.
 Die Farbmischfunktion ist eine Funktion zum Mischen mehrerer unterschiedlicher Farbfilamente und zum Extrudieren aus einer Düse, um ein neues Farbfilament zu erhalten. Durch Anpassen des Extrusionsverhältnisses jedes Extruders können unterschiedliche Farbfilamente erhalten werden. Mischen Sie beispielsweise Magenta- und Gelbfilament im Verhältnis 5:1, um rotes Filament zu erhalten, und mischen Sie Magenta- und Gelbfilament im Verhältnis 1:1, um oranges Filament zu erhalten.
@@ -438,6 +438,7 @@ Per sapere come utilizzare un estrusore virtuale per stampare modelli 3D con pi�
 # <a id="ru">Представление экструдера для смешивания цветов </a> [:arrow_heading_up:](#choose-language)
 ### Принцип работы экструдера смешанных цветов
 [][mix_color_principle]
+
 ### :warning: Это руководство предназначено для 4 экструдеров с горячим концом для смешивания цветов 4-В-1-ВЫХ.
 Функция смешивания цветов — это функция, позволяющая смешивать нити разных цветов и выдавливать их из одного сопла для получения нити нового цвета. Регулируя коэффициент выдавливания каждого экструдера, можно получить нить разного цвета. Например, смешайте пурпурную и желтую нить в соотношении 5:1, чтобы получить красную нить, а смешайте пурпурную и желтую нить в соотношении 1:1, чтобы получить оранжевую нить.
 ## Цветной 3D-принтер ZONESTAR может выполнять следующие функции:
