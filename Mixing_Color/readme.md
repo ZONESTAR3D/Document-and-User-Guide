@@ -229,7 +229,7 @@ Para saber como usar uma extrusora virtual para imprimir modelos 3D com mais cor
 ### Principe de fonctionnement de l'extrudeuse de couleurs mélangées
 [][mix_color_principle]
 
-### :avertissement : Ce guide est destiné à 4 extrudeuses avec hot end de couleurs mélangées 4-IN-1-OUT.
+### :warning: Ce guide est destiné à 4 extrudeuses avec hot end de couleurs mélangées 4-IN-1-OUT.
 La fonction de mélange de couleurs est une fonction permettant de mélanger plusieurs filaments de couleurs différentes et d'être extrudés à partir d'une buse pour obtenir un nouveau filament de couleur. En ajustant le taux d'extrusion de chaque extrudeuse, vous pouvez obtenir un filament de couleur différente. Par exemple, mélangez les filaments magenta et jaune dans un rapport de 5:1 pour obtenir un filament rouge, et mélangez les filaments magenta et jaune dans un rapport de 1:1 pour obtenir un filament orange.
 
 ## L'imprimante 3D ZONESTAR mix color peut réaliser les fonctions suivantes:
