@@ -1,39 +1,12 @@
-<!-- ### Choose Language (Translated by google)
-[![](../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=es)
-[![](../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=fr)
-[![](../lanpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=de)
-[![](../lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=it)
-[![](../lanpic/SW.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=sv)
-[![](../lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=pl)
-[![](../lanpic/DK.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=da)
-[![](../lanpic/CZ.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=cs)
-[![](../lanpic/HR.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=hr)
-[![](../lanpic/RO.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=ro)
-[![](../lanpic/SK.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=sk)
 
-[![](../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=ja)
-[![](../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=ko)
-[![](../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=id)
-[![](../lanpic/TH.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=th)
-[![](../lanpic/VN.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=vi)
-[![](../lanpic/IL.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=iw)
-[![](../lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=ar)
-[![](../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=tr)
-[![](../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=el)
-[![](../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=ru)
-[![](../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color/Auto_Mixing.md?_x_tr_sl=en&_x_tr_tl=zh-CN) -->
-
------
 # Auto mixing color operation manual
 
------
+----
 # Color Mixing Feature User Guide
 ### :warning: This guide is made for 4 extruders with 4-IN-1-OUT mix color hot end.
 The color mixing feature is a function to mix multi different color filaments and extruded from one nozzle to get a new color filament. By adjusting the extrude ratio of each extruder, it can get different color filament. For example, mix Magenta and Yellow filament as a ratio 5:1 to get Red filament, and mix Magenta and Yellow filament as a ratio 1:1 to get Orange filament.  
 
------
+----
 ## Manual change mixing rate on printing 
 When printing from SD card, you can change the color mixing ratio of the extruders at any time to change the filament color. The steps are as follows:     
 - Start to print a singel color gcode file from SD card.
@@ -44,7 +17,7 @@ When printing from SD card, you can change the color mixing ratio of the extrude
 After setting up, on the ideal menu shows Current **VTOOL = 0**
 ![](1.jpg)
 
------
+----
 ## Gradient mixing printing
 When printing from SD card, you can start a gradient mixing feature, to let the printer auto change the mixing ratio when printing height changed. The steps are as follows:       
 [:clapper:Video tutorial](https://youtu.be/VOlXvy38aFs)    
@@ -77,7 +50,7 @@ By adding a M166 command into the "Start G-code" of slicing software, and sliced
 	I0 -> Start VTool is 0 
 	J1 -> End VTool is 1
 
------
+----
 ## Random mixing printing
 When printing from SD card, you can start a gradient mixing feature, to let the printer auto change the mixing ratio when printing height changed. The steps are as follows:      
 [:clapper:Video tutorial](https://youtu.be/-mQ4bCnrIaw)    
@@ -109,7 +82,7 @@ By adding a M167 command into the "Start G-code" of slicing software, and sliced
 	H0.2->change color every 0.2mm
 	E3->3 extruders (Extruder #1 to Extruder #3) will be used to mix
 
------
+----
 ## How to set mixing ratio of virtual extruder
 We can set the mixing ratio of each virtual extruder by LCD control panel or adding command in the "Start G-code" of slicing software.
 :warning:If a printing from SD card is finished or abort, the machine will automatically reset mixing ratio of all virtual extruders to default.
