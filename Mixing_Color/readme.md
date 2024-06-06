@@ -4,16 +4,16 @@
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
-[![](./lanpic/EN.png)](#en)
-[![](./lanpic/ES.png)](#es)
-[![](./lanpic/PT.png)](#pt)
-[![](./lanpic/FR.png)](#fr)
-[![](./lanpic/DE.png)](#de)
-[![](./lanpic/IT.png)](#it)
-[![](./lanpic/RU.png)](#ru)
-[![](./lanpic/JP.png)](#jp)
-[![](./lanpic/KR.png)](#kr)
-<!-- [![](./lanpic/SA.png)](#ar) -->
+[![](../lanpic/EN.png)](#en)
+[![](../lanpic/ES.png)](#es)
+[![](../lanpic/PT.png)](#pt)
+[![](../lanpic/FR.png)](#fr)
+[![](../lanpic/DE.png)](#de)
+[![](../lanpic/IT.png)](#it)
+[![](../lanpic/RU.png)](#ru)
+[![](../lanpic/JP.png)](#jp)
+[![](../lanpic/KR.png)](#kr)
+<!-- [![](../lanpic/SA.png)](#ar) -->
 
 ----
 # <a id="en">Introduction of Color Mixing Extruder </a>
